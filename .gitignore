@@ -1,0 +1,13 @@
+# Excel originales del MITECO (pesados, se descargan con --descargar)
+raw_data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

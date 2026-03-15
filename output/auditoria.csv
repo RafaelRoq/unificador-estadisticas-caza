@@ -1,0 +1,496 @@
+﻿nivel,anio,tabla,check,resultado,detalle
+REPARSE,2023,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2023,licencias_ccaa,content,OK,idéntico
+REPARSE,2023,capturas,row_count,OK,705 filas
+REPARSE,2023,capturas,content,OK,idéntico
+REPARSE,2023,sueltas,row_count,OK,167 filas
+REPARSE,2023,sueltas,content,OK,idéntico
+REPARSE,2023,produccion,row_count,OK,51 filas
+REPARSE,2023,produccion,content,OK,idéntico
+REPARSE,2023,terrenos,row_count,OK,165 filas
+REPARSE,2023,terrenos,content,OK,idéntico
+REPARSE,2022,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2022,licencias_ccaa,content,OK,idéntico
+REPARSE,2022,capturas,row_count,OK,738 filas
+REPARSE,2022,capturas,content,OK,idéntico
+REPARSE,2022,sueltas,row_count,OK,161 filas
+REPARSE,2022,sueltas,content,OK,idéntico
+REPARSE,2022,produccion,row_count,OK,58 filas
+REPARSE,2022,produccion,content,OK,idéntico
+REPARSE,2022,terrenos,row_count,OK,168 filas
+REPARSE,2022,terrenos,content,OK,idéntico
+REPARSE,2021,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2021,licencias_ccaa,content,OK,idéntico
+REPARSE,2021,capturas,row_count,OK,769 filas
+REPARSE,2021,capturas,content,OK,idéntico
+REPARSE,2021,sueltas,row_count,OK,171 filas
+REPARSE,2021,sueltas,content,OK,idéntico
+REPARSE,2021,produccion,row_count,OK,57 filas
+REPARSE,2021,produccion,content,OK,idéntico
+REPARSE,2021,terrenos,row_count,OK,170 filas
+REPARSE,2021,terrenos,content,OK,idéntico
+REPARSE,2020,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2020,licencias_ccaa,content,OK,idéntico
+REPARSE,2020,capturas,row_count,OK,776 filas
+REPARSE,2020,capturas,content,OK,idéntico
+REPARSE,2020,sueltas,row_count,OK,178 filas
+REPARSE,2020,sueltas,content,OK,idéntico
+REPARSE,2020,produccion,row_count,OK,47 filas
+REPARSE,2020,produccion,content,OK,idéntico
+REPARSE,2020,terrenos,row_count,OK,177 filas
+REPARSE,2020,terrenos,content,OK,idéntico
+REPARSE,2019,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2019,licencias_ccaa,content,OK,idéntico
+REPARSE,2019,capturas,row_count,OK,780 filas
+REPARSE,2019,capturas,content,OK,idéntico
+REPARSE,2019,sueltas,row_count,OK,175 filas
+REPARSE,2019,sueltas,content,OK,idéntico
+REPARSE,2019,produccion,row_count,OK,53 filas
+REPARSE,2019,produccion,content,OK,idéntico
+REPARSE,2019,terrenos,row_count,OK,170 filas
+REPARSE,2019,terrenos,content,OK,idéntico
+REPARSE,2018,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2018,licencias_ccaa,content,OK,idéntico
+REPARSE,2018,capturas,row_count,OK,786 filas
+REPARSE,2018,capturas,content,OK,idéntico
+REPARSE,2018,sueltas,row_count,OK,178 filas
+REPARSE,2018,sueltas,content,OK,idéntico
+REPARSE,2018,produccion,row_count,OK,53 filas
+REPARSE,2018,produccion,content,OK,idéntico
+REPARSE,2018,terrenos,row_count,OK,169 filas
+REPARSE,2018,terrenos,content,OK,idéntico
+REPARSE,2017,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2017,licencias_ccaa,content,OK,idéntico
+REPARSE,2017,capturas,row_count,OK,789 filas
+REPARSE,2017,capturas,content,OK,idéntico
+REPARSE,2017,sueltas,row_count,OK,166 filas
+REPARSE,2017,sueltas,content,OK,idéntico
+REPARSE,2017,produccion,row_count,OK,58 filas
+REPARSE,2017,produccion,content,OK,idéntico
+REPARSE,2017,terrenos,row_count,OK,168 filas
+REPARSE,2017,terrenos,content,OK,idéntico
+REPARSE,2016,licencias_ccaa,row_count,OK,17 filas
+REPARSE,2016,licencias_ccaa,content,OK,idéntico
+REPARSE,2016,capturas,row_count,OK,787 filas
+REPARSE,2016,capturas,content,OK,idéntico
+REPARSE,2016,sueltas,row_count,OK,177 filas
+REPARSE,2016,sueltas,content,OK,idéntico
+REPARSE,2016,produccion,row_count,OK,66 filas
+REPARSE,2016,produccion,content,OK,idéntico
+REPARSE,2016,terrenos,row_count,OK,182 filas
+REPARSE,2016,terrenos,content,OK,idéntico
+REPARSE,2015,licencias_prov,row_count,OK,41 filas
+REPARSE,2015,licencias_prov,content,OK,idéntico
+REPARSE,2015,capturas,row_count,OK,789 filas
+REPARSE,2015,capturas,content,OK,idéntico
+REPARSE,2015,sueltas,row_count,OK,176 filas
+REPARSE,2015,sueltas,content,OK,idéntico
+REPARSE,2015,produccion,row_count,OK,50 filas
+REPARSE,2015,produccion,content,OK,idéntico
+REPARSE,2015,terrenos,row_count,OK,182 filas
+REPARSE,2015,terrenos,content,OK,idéntico
+REPARSE,2014,licencias_prov,row_count,OK,49 filas
+REPARSE,2014,licencias_prov,content,OK,idéntico
+REPARSE,2014,capturas,row_count,OK,785 filas
+REPARSE,2014,capturas,content,OK,idéntico
+REPARSE,2014,sueltas,row_count,OK,183 filas
+REPARSE,2014,sueltas,content,OK,idéntico
+REPARSE,2014,produccion,row_count,OK,63 filas
+REPARSE,2014,produccion,content,OK,idéntico
+REPARSE,2014,terrenos,row_count,OK,191 filas
+REPARSE,2014,terrenos,content,OK,idéntico
+REPARSE,2013,licencias_prov,row_count,OK,50 filas
+REPARSE,2013,licencias_prov,content,OK,idéntico
+REPARSE,2013,capturas,row_count,OK,752 filas
+REPARSE,2013,capturas,content,OK,idéntico
+REPARSE,2013,sueltas,row_count,OK,156 filas
+REPARSE,2013,sueltas,content,OK,idéntico
+REPARSE,2013,produccion,row_count,OK,67 filas
+REPARSE,2013,produccion,content,OK,idéntico
+REPARSE,2013,terrenos,row_count,OK,187 filas
+REPARSE,2013,terrenos,content,OK,idéntico
+REPARSE,2012,licencias_prov,row_count,OK,47 filas
+REPARSE,2012,licencias_prov,content,OK,idéntico
+REPARSE,2012,capturas,row_count,OK,677 filas
+REPARSE,2012,capturas,content,OK,idéntico
+REPARSE,2012,sueltas,row_count,OK,127 filas
+REPARSE,2012,sueltas,content,OK,idéntico
+REPARSE,2012,produccion,row_count,OK,52 filas
+REPARSE,2012,produccion,content,OK,idéntico
+REPARSE,2012,terrenos,row_count,OK,168 filas
+REPARSE,2012,terrenos,content,OK,idéntico
+REPARSE,2011,licencias_prov,row_count,OK,45 filas
+REPARSE,2011,licencias_prov,content,OK,idéntico
+REPARSE,2011,capturas,row_count,OK,684 filas
+REPARSE,2011,capturas,content,OK,idéntico
+REPARSE,2011,sueltas,row_count,OK,144 filas
+REPARSE,2011,sueltas,content,OK,idéntico
+REPARSE,2011,produccion,row_count,OK,53 filas
+REPARSE,2011,produccion,content,OK,idéntico
+REPARSE,2011,terrenos,row_count,OK,168 filas
+REPARSE,2011,terrenos,content,OK,idéntico
+REPARSE,2010,licencias_prov,row_count,OK,44 filas
+REPARSE,2010,licencias_prov,content,OK,idéntico
+REPARSE,2010,capturas,row_count,OK,633 filas
+REPARSE,2010,capturas,content,OK,idéntico
+REPARSE,2010,sueltas,row_count,OK,127 filas
+REPARSE,2010,sueltas,content,OK,idéntico
+REPARSE,2010,produccion,row_count,OK,49 filas
+REPARSE,2010,produccion,content,OK,idéntico
+REPARSE,2010,terrenos,row_count,OK,132 filas
+REPARSE,2010,terrenos,content,OK,idéntico
+REPARSE,2009,licencias_prov,row_count,OK,43 filas
+REPARSE,2009,licencias_prov,content,OK,idéntico
+REPARSE,2009,capturas,row_count,OK,551 filas
+REPARSE,2009,capturas,content,OK,idéntico
+REPARSE,2009,sueltas,row_count,OK,231 filas
+REPARSE,2009,sueltas,content,OK,idéntico
+REPARSE,2009,produccion,row_count,OK,64 filas
+REPARSE,2009,produccion,content,OK,idéntico
+REPARSE,2009,terrenos,row_count,OK,136 filas
+REPARSE,2009,terrenos,content,OK,idéntico
+REPARSE,2008,licencias_prov,row_count,OK,35 filas
+REPARSE,2008,licencias_prov,content,OK,idéntico
+REPARSE,2008,capturas,row_count,OK,446 filas
+REPARSE,2008,capturas,content,OK,idéntico
+REPARSE,2008,sueltas,row_count,OK,81 filas
+REPARSE,2008,sueltas,content,OK,idéntico
+REPARSE,2008,produccion,row_count,OK,53 filas
+REPARSE,2008,produccion,content,OK,idéntico
+REPARSE,2008,terrenos,row_count,OK,114 filas
+REPARSE,2008,terrenos,content,OK,idéntico
+REPARSE,2007,licencias_prov,row_count,OK,44 filas
+REPARSE,2007,licencias_prov,content,OK,idéntico
+REPARSE,2007,capturas,row_count,OK,799 filas
+REPARSE,2007,capturas,content,OK,idéntico
+REPARSE,2007,produccion,row_count,OK,56 filas
+REPARSE,2007,produccion,content,OK,idéntico
+REPARSE,2007,sueltas,row_count,OK,260 filas
+REPARSE,2007,sueltas,content,OK,idéntico
+REPARSE,2007,terrenos,row_count,OK,154 filas
+REPARSE,2007,terrenos,content,OK,idéntico
+REPARSE,2006,capturas,row_count,OK,728 filas
+REPARSE,2006,capturas,content,OK,idéntico
+REPARSE,2006,sueltas,row_count,OK,748 filas
+REPARSE,2006,sueltas,content,OK,idéntico
+REPARSE,2006,produccion,row_count,OK,471 filas
+REPARSE,2006,produccion,content,OK,idéntico
+REPARSE,2006,terrenos,row_count,OK,277 filas
+REPARSE,2006,terrenos,content,OK,idéntico
+REPARSE,2006,licencias_prov,row_count,OK,45 filas
+REPARSE,2006,licencias_prov,content,OK,idéntico
+REPARSE,2005,licencias_prov,row_count,OK,41 filas
+REPARSE,2005,licencias_prov,content,OK,idéntico
+REPARSE,2005,capturas,row_count,OK,444 filas
+REPARSE,2005,capturas,content,OK,idéntico
+TOTALES,2023,licencias_ccaa,licencias_expedidas,OK,"csv=590,641 excel=590,641 diff=+0"
+TOTALES,2023,capturas,n_capturas,OK,"csv=15,355,199 excel=15,355,199 diff=+0"
+TOTALES,2023,sueltas,n_sueltas,OK,"csv=3,172,488 excel=3,172,488 diff=+0"
+TOTALES,2023,produccion,n_produccion,OK,"csv=1,298,547 excel=1,298,547 diff=+0"
+TOTALES,2023,terrenos,n_cotos,OK,"csv=32,375 excel=32,375 diff=+0"
+TOTALES,2023,terrenos,sup_ha,OK,"csv=43,961,306 excel=43,961,306 diff=+0"
+TOTALES,2022,licencias_ccaa,licencias_expedidas,OK,"csv=568,715 excel=568,715 diff=+0"
+TOTALES,2022,capturas,n_capturas,OK,"csv=19,111,395 excel=19,111,395 diff=+0"
+TOTALES,2022,sueltas,n_sueltas,OK,"csv=3,522,254 excel=3,522,254 diff=+0"
+TOTALES,2022,produccion,n_produccion,OK,"csv=2,116,855 excel=2,116,855 diff=+0"
+TOTALES,2022,terrenos,n_cotos,OK,"csv=31,650 excel=31,650 diff=+0"
+TOTALES,2022,terrenos,sup_ha,OK,"csv=43,108,985 excel=43,108,985 diff=+0"
+TOTALES,2021,licencias_ccaa,licencias_expedidas,OK,"csv=655,839 excel=655,839 diff=+0"
+TOTALES,2021,capturas,n_capturas,OK,"csv=18,846,007 excel=18,846,007 diff=+0"
+TOTALES,2021,sueltas,n_sueltas,OK,"csv=2,437,137 excel=2,437,137 diff=+0"
+TOTALES,2021,produccion,n_produccion,OK,"csv=1,601,072 excel=1,601,072 diff=+0"
+TOTALES,2021,terrenos,n_cotos,OK,"csv=32,208 excel=32,208 diff=+0"
+TOTALES,2021,terrenos,sup_ha,OK,"csv=43,149,759 excel=43,149,759 diff=+0"
+TOTALES,2020,licencias_ccaa,licencias_expedidas,OK,"csv=659,226 excel=659,226 diff=+0"
+TOTALES,2020,capturas,n_capturas,OK,"csv=16,833,346 excel=16,833,346 diff=+0"
+TOTALES,2020,sueltas,n_sueltas,OK,"csv=2,285,038 excel=2,285,038 diff=+0"
+TOTALES,2020,produccion,n_produccion,OK,"csv=1,182,378 excel=1,182,378 diff=+0"
+TOTALES,2020,terrenos,n_cotos,OK,"csv=32,187 excel=32,187 diff=+0"
+TOTALES,2020,terrenos,sup_ha,OK,"csv=43,107,688 excel=43,107,688 diff=+0"
+TOTALES,2019,licencias_ccaa,licencias_expedidas,OK,"csv=725,298 excel=725,298 diff=+0"
+TOTALES,2019,capturas,n_capturas,OK,"csv=20,404,957 excel=20,404,957 diff=+0"
+TOTALES,2019,sueltas,n_sueltas,OK,"csv=2,549,181 excel=2,549,181 diff=+0"
+TOTALES,2019,produccion,n_produccion,OK,"csv=1,368,602 excel=1,368,602 diff=+0"
+TOTALES,2019,terrenos,n_cotos,OK,"csv=32,180 excel=32,180 diff=+0"
+TOTALES,2019,terrenos,sup_ha,OK,"csv=43,362,745 excel=43,362,745 diff=+0"
+TOTALES,2018,licencias_ccaa,licencias_expedidas,OK,"csv=751,717 excel=751,717 diff=+0"
+TOTALES,2018,capturas,n_capturas,OK,"csv=19,185,032 excel=19,185,032 diff=+0"
+TOTALES,2018,sueltas,n_sueltas,OK,"csv=2,860,362 excel=2,860,362 diff=+0"
+TOTALES,2018,produccion,n_produccion,OK,"csv=1,032,981 excel=1,032,981 diff=+0"
+TOTALES,2018,terrenos,n_cotos,OK,"csv=31,786 excel=31,786 diff=+0"
+TOTALES,2018,terrenos,sup_ha,OK,"csv=43,139,533 excel=43,139,533 diff=+0"
+TOTALES,2017,licencias_ccaa,licencias_expedidas,OK,"csv=785,720 excel=785,720 diff=+0"
+TOTALES,2017,capturas,n_capturas,OK,"csv=21,487,892 excel=21,487,892 diff=+0"
+TOTALES,2017,sueltas,n_sueltas,OK,"csv=2,562,799 excel=2,562,799 diff=+0"
+TOTALES,2017,produccion,n_produccion,OK,"csv=1,135,954 excel=1,135,954 diff=+0"
+TOTALES,2017,terrenos,n_cotos,OK,"csv=32,326 excel=32,326 diff=+0"
+TOTALES,2017,terrenos,sup_ha,OK,"csv=42,748,775 excel=42,748,775 diff=+0"
+TOTALES,2016,licencias_ccaa,licencias_expedidas,OK,"csv=812,639 excel=812,639 diff=+0"
+TOTALES,2016,capturas,n_capturas,OK,"csv=22,031,364 excel=22,031,364 diff=+0"
+TOTALES,2016,sueltas,n_sueltas,OK,"csv=2,287,699 excel=2,287,699 diff=+0"
+TOTALES,2016,produccion,n_produccion,OK,"csv=1,403,834 excel=1,403,834 diff=+0"
+TOTALES,2016,terrenos,n_cotos,OK,"csv=33,030 excel=33,030 diff=+0"
+TOTALES,2016,terrenos,sup_ha,OK,"csv=43,853,705 excel=43,853,705 diff=+0"
+TOTALES,2015,licencias_prov,licencias_expedidas,OK,"csv=823,453 excel=823,453 diff=+0"
+TOTALES,2015,capturas,n_capturas,OK,"csv=20,922,143 excel=20,922,143 diff=+0"
+TOTALES,2015,sueltas,n_sueltas,OK,"csv=2,141,042 excel=2,141,042 diff=+0"
+TOTALES,2015,produccion,n_produccion,OK,"csv=901,727 excel=901,727 diff=+0"
+TOTALES,2015,terrenos,n_cotos,OK,"csv=32,817 excel=32,817 diff=+0"
+TOTALES,2015,terrenos,sup_ha,OK,"csv=43,800,030 excel=43,800,030 diff=+0"
+TOTALES,2014,licencias_prov,licencias_expedidas,OK,"csv=851,894 excel=851,894 diff=+0"
+TOTALES,2014,capturas,n_capturas,OK,"csv=19,299,322 excel=19,299,322 diff=+0"
+TOTALES,2014,sueltas,n_sueltas,OK,"csv=1,820,957 excel=1,820,957 diff=+0"
+TOTALES,2014,produccion,n_produccion,OK,"csv=1,306,623 excel=1,306,623 diff=+0"
+TOTALES,2014,terrenos,n_cotos,OK,"csv=32,362 excel=32,362 diff=+0"
+TOTALES,2014,terrenos,sup_ha,OK,"csv=43,864,720 excel=43,864,720 diff=+0"
+TOTALES,2013,licencias_prov,licencias_expedidas,OK,"csv=848,243 excel=848,243 diff=+0"
+TOTALES,2013,capturas,n_capturas,OK,"csv=21,653,448 excel=21,653,448 diff=+0"
+TOTALES,2013,sueltas,n_sueltas,OK,"csv=1,696,268 excel=1,696,268 diff=+0"
+TOTALES,2013,produccion,n_produccion,OK,"csv=1,158,865 excel=1,158,865 diff=+0"
+TOTALES,2013,terrenos,n_cotos,OK,"csv=32,432 excel=32,432 diff=+0"
+TOTALES,2013,terrenos,sup_ha,OK,"csv=43,708,467 excel=43,708,467 diff=+0"
+TOTALES,2012,licencias_prov,licencias_expedidas,OK,"csv=898,621 excel=898,621 diff=+0"
+TOTALES,2012,capturas,n_capturas,OK,"csv=19,937,256 excel=19,937,256 diff=+0"
+TOTALES,2012,sueltas,n_sueltas,OK,"csv=2,140,163 excel=2,140,163 diff=+0"
+TOTALES,2012,produccion,n_produccion,OK,"csv=1,949,317 excel=1,949,317 diff=+0"
+TOTALES,2012,terrenos,n_cotos,OK,"csv=30,371 excel=30,371 diff=+0"
+TOTALES,2012,terrenos,sup_ha,OK,"csv=40,030,978 excel=40,030,978 diff=+0"
+TOTALES,2011,licencias_prov,licencias_expedidas,OK,"csv=920,526 excel=920,526 diff=+0"
+TOTALES,2011,capturas,n_capturas,OK,"csv=20,442,875 excel=20,442,875 diff=+0"
+TOTALES,2011,sueltas,n_sueltas,OK,"csv=2,130,509 excel=2,130,509 diff=+0"
+TOTALES,2011,produccion,n_produccion,OK,"csv=1,787,206 excel=1,787,206 diff=+0"
+TOTALES,2011,terrenos,n_cotos,OK,"csv=30,454 excel=30,454 diff=+0"
+TOTALES,2011,terrenos,sup_ha,OK,"csv=40,690,024 excel=40,690,024 diff=+0"
+TOTALES,2010,licencias_prov,licencias_expedidas,OK,"csv=1,078,852 excel=1,078,852 diff=+0"
+TOTALES,2010,capturas,n_capturas,OK,"csv=20,557,945 excel=20,557,945 diff=+0"
+TOTALES,2010,sueltas,n_sueltas,OK,"csv=2,291,275 excel=2,291,275 diff=+0"
+TOTALES,2010,produccion,n_produccion,OK,"csv=1,346,407 excel=1,346,407 diff=+0"
+TOTALES,2010,terrenos,n_cotos,OK,"csv=26,202 excel=26,202 diff=+0"
+TOTALES,2010,terrenos,sup_ha,OK,"csv=31,434,668 excel=31,434,668 diff=+0"
+TOTALES,2009,licencias_prov,licencias_expedidas,OK,"csv=1,032,242 excel=1,032,242 diff=+0"
+TOTALES,2009,capturas,n_capturas,OK,"csv=19,669,317 excel=19,669,317 diff=+0"
+TOTALES,2009,sueltas,n_sueltas,OK,"csv=3,346,290 excel=3,346,290 diff=+0"
+TOTALES,2009,produccion,n_produccion,OK,"csv=1,786,048 excel=1,786,048 diff=+0"
+TOTALES,2009,terrenos,n_cotos,OK,"csv=25,541 excel=25,541 diff=+0"
+TOTALES,2009,terrenos,sup_ha,OK,"csv=31,453,495 excel=31,453,495 diff=+0"
+TOTALES,2008,licencias_prov,licencias_expedidas,OK,"csv=698,373 excel=698,373 diff=+0"
+TOTALES,2008,capturas,n_capturas,OK,"csv=15,940,541 excel=15,940,541 diff=+0"
+TOTALES,2008,sueltas,n_sueltas,OK,"csv=2,233,983 excel=2,233,983 diff=+0"
+TOTALES,2008,produccion,n_produccion,OK,"csv=1,106,356 excel=1,106,356 diff=+0"
+TOTALES,2008,terrenos,n_cotos,OK,"csv=25,389 excel=25,389 diff=+0"
+TOTALES,2008,terrenos,sup_ha,OK,"csv=29,102,493 excel=29,102,493 diff=+0"
+TOTALES,2007,licencias_prov,licencias_expedidas,OK,"csv=898,036 excel=898,036 diff=+0"
+TOTALES,2007,capturas,n_capturas,OK,"csv=16,073,149 excel=16,073,149 diff=+0"
+TOTALES,2007,sueltas,n_sueltas,OK,"csv=1,675,294 excel=1,675,294 diff=+0"
+TOTALES,2007,produccion,n_produccion,OK,"csv=1,602,135 excel=1,602,135 diff=+0"
+TOTALES,2007,terrenos,n_cotos,OK,"csv=27,656 excel=27,656 diff=+0"
+TOTALES,2006,licencias_prov,licencias_expedidas,OK,"csv=905,891 excel=905,891 diff=+0"
+TOTALES,2006,capturas,n_capturas,OK,"csv=14,836,458 excel=14,836,458 diff=+0"
+TOTALES,2006,sueltas,n_sueltas,OK,"csv=2,991,562 excel=2,991,562 diff=+0"
+TOTALES,2006,produccion,n_produccion,OK,"csv=1,947,291 excel=1,947,291 diff=+0"
+TOTALES,2006,terrenos,n_cotos,OK,"csv=30,859 excel=30,859 diff=+0"
+TOTALES,2006,terrenos,sup_ha,OK,"csv=39,099,788 excel=39,099,788 diff=+0"
+TOTALES,2005,licencias_prov,licencias_expedidas,OK,"csv=837,097 excel=837,097 diff=+0"
+TOTALES,2005,capturas,n_capturas,OK,"csv=14,418,261 excel=14,418,261 diff=+0"
+SAMPLING,2023,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2022,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2021,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2016,licencias_ccaa,seed=42,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2013,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,licencias_prov,seed=42,FAIL,"29 OK, 0 skip, 1 FAIL"
+SAMPLING,2011,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,licencias_prov,seed=42,FAIL,"27 OK, 0 skip, 3 FAIL"
+SAMPLING,2009,licencias_prov,seed=42,FAIL,"26 OK, 0 skip, 4 FAIL"
+SAMPLING,2008,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2006,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2005,licencias_prov,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2022,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2021,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2016,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2013,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2012,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2009,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2008,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2007,capturas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2006,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2005,capturas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,sueltas,seed=42,FAIL,"24 OK, 0 skip, 6 FAIL"
+SAMPLING,2022,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2021,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2016,sueltas,seed=42,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2015,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2013,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2009,sueltas,seed=42,OK,"28 OK, 2 skip, 0 FAIL"
+SAMPLING,2008,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,sueltas,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2006,sueltas,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2022,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2021,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2016,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2013,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2009,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2008,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2006,produccion,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2022,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2021,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2020,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2019,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2018,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2017,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2016,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2015,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2014,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2013,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2012,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2011,terrenos,seed=42,OK,"2 OK, 28 skip, 0 FAIL"
+SAMPLING,2010,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2009,terrenos,seed=42,OK,"1 OK, 29 skip, 0 FAIL"
+SAMPLING,2008,terrenos,seed=42,OK,"2 OK, 28 skip, 0 FAIL"
+SAMPLING,2007,terrenos,seed=42,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2006,terrenos,seed=42,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2022,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2021,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2016,licencias_ccaa,seed=99,OK,"17 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2013,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,licencias_prov,seed=99,FAIL,"29 OK, 0 skip, 1 FAIL"
+SAMPLING,2009,licencias_prov,seed=99,FAIL,"29 OK, 0 skip, 1 FAIL"
+SAMPLING,2008,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2006,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2005,licencias_prov,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2022,capturas,seed=99,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2021,capturas,seed=99,OK,"28 OK, 2 skip, 0 FAIL"
+SAMPLING,2020,capturas,seed=99,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2019,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,capturas,seed=99,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2016,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,capturas,seed=99,OK,"28 OK, 2 skip, 0 FAIL"
+SAMPLING,2013,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2009,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2008,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2006,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2005,capturas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,sueltas,seed=99,FAIL,"27 OK, 0 skip, 3 FAIL"
+SAMPLING,2022,sueltas,seed=99,OK,"29 OK, 1 skip, 0 FAIL"
+SAMPLING,2021,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2016,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2013,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2009,sueltas,seed=99,OK,"28 OK, 2 skip, 0 FAIL"
+SAMPLING,2008,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,sueltas,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2006,sueltas,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2022,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2021,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2020,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2019,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2018,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2017,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2016,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2015,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2014,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2013,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2012,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2011,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2010,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2009,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2008,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2007,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2006,produccion,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+SAMPLING,2023,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2022,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2021,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2020,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2019,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2018,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2017,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2016,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2015,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2014,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2013,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2012,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2011,terrenos,seed=99,OK,"1 OK, 29 skip, 0 FAIL"
+SAMPLING,2010,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2009,terrenos,seed=99,OK,"1 OK, 29 skip, 0 FAIL"
+SAMPLING,2008,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2007,terrenos,seed=99,OK,"0 OK, 30 skip, 0 FAIL"
+SAMPLING,2006,terrenos,seed=99,OK,"30 OK, 0 skip, 0 FAIL"
+INTEGRIDAD,-,licencias_ccaa,años_completos,OK,8 años
+INTEGRIDAD,-,licencias_prov,años_completos,OK,11 años
+INTEGRIDAD,-,capturas,años_completos,OK,19 años
+INTEGRIDAD,-,sueltas,años_completos,OK,18 años
+INTEGRIDAD,-,produccion,años_completos,OK,18 años
+INTEGRIDAD,-,terrenos,años_completos,OK,18 años
+INTEGRIDAD,-,licencias_ccaa,no_null_keys,OK,sin NaN en claves
+INTEGRIDAD,-,licencias_prov,no_null_keys,OK,sin NaN en claves
+INTEGRIDAD,-,capturas,no_null_keys,OK,sin NaN en claves
+INTEGRIDAD,-,sueltas,no_null_keys,OK,sin NaN en claves
+INTEGRIDAD,-,produccion,no_null_keys,OK,sin NaN en claves
+INTEGRIDAD,-,terrenos,no_null_keys,OK,sin NaN en claves
+INTEGRIDAD,-,licencias_ccaa,sin_duplicados,OK,136 filas únicas
+INTEGRIDAD,-,licencias_prov,sin_duplicados,OK,484 filas únicas
+INTEGRIDAD,-,capturas,sin_duplicados,OK,13418 filas únicas
+INTEGRIDAD,-,sueltas,sin_duplicados,OK,3606 filas únicas
+INTEGRIDAD,-,produccion,sin_duplicados,OK,1421 filas únicas
+INTEGRIDAD,-,terrenos,sin_duplicados,OK,3078 filas únicas

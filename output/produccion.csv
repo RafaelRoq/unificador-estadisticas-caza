@@ -1,0 +1,1422 @@
+﻿anio,ccaa,provincia,categoria,especie,n_produccion
+2023,Andalucía,Almería,Caza Menor de Aves,Perdiz,42465.0
+2023,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,15924.0
+2023,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,50391.0
+2023,Andalucía,Granada,Caza Menor de Aves,Perdiz,130863.0
+2023,Andalucía,Huelva,Caza Menor de Aves,Perdiz,800.0
+2023,Andalucía,Jaén,Caza Menor de Aves,Perdiz,53035.0
+2023,Andalucía,Málaga,Caza Menor de Aves,Perdiz,10330.0
+2023,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,22200.0
+2023,Aragón,Huesca,Caza Menor de Aves,Faisán,100.0
+2023,Aragón,Huesca,Caza Menor de Aves,Perdiz,201699.0
+2023,Aragón,Huesca,Caza Menor de Mamíferos,Conejo,600.0
+2023,Aragón,Teruel,Caza Mayor,Ciervo,198.0
+2023,Aragón,Teruel,Caza Menor de Aves,Perdiz,16000.0
+2023,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,25801.0
+2023,C. Valenciana,Valencia,Caza Mayor,Cabra montés,25.0
+2023,C. Valenciana,Valencia,Caza Mayor,Ciervo,60.0
+2023,C. Valenciana,Valencia,Caza Mayor,Jabalí,242.0
+2023,C. Valenciana,Valencia,Caza Mayor,Muflón,6.0
+2023,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,18500.0
+2023,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,42386.0
+2023,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,12285.0
+2023,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,2110.0
+2023,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,230.0
+2023,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,260.0
+2023,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,40.0
+2023,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,15230.0
+2023,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Faisán,50.0
+2023,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Paloma,500.0
+2023,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,92528.0
+2023,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,220.0
+2023,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,139420.0
+2023,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,42.0
+2023,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,5.0
+2023,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,16.0
+2023,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,5000.0
+2023,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,7734.0
+2023,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,24820.0
+2023,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,127397.0
+2023,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,72.0
+2023,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,57.0
+2023,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,137318.0
+2023,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,7637.0
+2023,Extremadura,Cáceres,Caza Mayor,Ciervo,18.0
+2023,Extremadura,Cáceres,Caza Menor de Aves,Faisán,590.0
+2023,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,87275.0
+2023,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,882.0
+2023,Madrid,Madrid,Caza Menor de Aves,Faisán,600.0
+2023,Madrid,Madrid,Caza Menor de Aves,Paloma,400.0
+2023,Madrid,Madrid,Caza Menor de Aves,Perdiz,3810.0
+2023,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,358.0
+2023,Madrid,Madrid,Caza Menor de Mamíferos,Liebre,18.0
+2022,Andalucía,Almería,Caza Menor de Aves,Perdiz,92326.0
+2022,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,15490.0
+2022,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,54656.0
+2022,Andalucía,Granada,Caza Menor de Aves,Perdiz,76613.0
+2022,Andalucía,Huelva,Caza Menor de Aves,Perdiz,11900.0
+2022,Andalucía,Jaén,Caza Menor de Aves,Perdiz,45875.0
+2022,Andalucía,Málaga,Caza Menor de Aves,Perdiz,18400.0
+2022,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,21000.0
+2022,Aragón,Huesca,Caza Menor de Aves,Faisán,100.0
+2022,Aragón,Huesca,Caza Menor de Aves,Perdiz,701699.0
+2022,Aragón,Huesca,Caza Menor de Mamíferos,Conejo,600.0
+2022,Aragón,Teruel,Caza Mayor,Ciervo,198.0
+2022,Aragón,Teruel,Caza Menor de Aves,Perdiz,16000.0
+2022,Aragón,Zaragoza,Caza Menor de Aves,Codorniz,4.0
+2022,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,9522.0
+2022,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,4470.0
+2022,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,27128.0
+2022,C. Valenciana,Valencia,Caza Mayor,Ciervo,90.0
+2022,C. Valenciana,Valencia,Caza Mayor,Jabalí,90.0
+2022,C. Valenciana,Valencia,Caza Mayor,Muflón,8.0
+2022,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,68050.0
+2022,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,67350.0
+2022,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,1730.0
+2022,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,16.0
+2022,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,108763.0
+2022,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,21259.0
+2022,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,844.0
+2022,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,57.0
+2022,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,315.0
+2022,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,129.0
+2022,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,2700.0
+2022,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,18385.0
+2022,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,88400.0
+2022,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,140.0
+2022,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,130330.0
+2022,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,106.0
+2022,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,14.0
+2022,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,62.0
+2022,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,12.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Aves,Acuáticas y anátidas,1190.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,4591.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,5874.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,252047.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,48332.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,200.0
+2022,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,185.0
+2022,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,1440.0
+2022,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,108768.0
+2022,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,9183.0
+2022,Extremadura,Cáceres,Caza Menor de Aves,Faisán,625.0
+2022,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,62703.0
+2022,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,1452.0
+2022,Madrid,Madrid,Caza Menor de Aves,Faisán,800.0
+2022,Madrid,Madrid,Caza Menor de Aves,Paloma,500.0
+2022,Madrid,Madrid,Caza Menor de Aves,Perdiz,2300.0
+2022,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,334.0
+2022,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,0.0
+2022,País Vasco,Álava,Caza Menor de Aves,Codorniz,11500.0
+2021,Andalucía,Almería,Caza Menor de Aves,Perdiz,103656.0
+2021,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,23900.0
+2021,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,57066.0
+2021,Andalucía,Granada,Caza Menor de Aves,Perdiz,139620.0
+2021,Andalucía,Huelva,Caza Menor de Aves,Perdiz,1500.0
+2021,Andalucía,Jaén,Caza Menor de Aves,Perdiz,58746.0
+2021,Andalucía,Málaga,Caza Menor de Aves,Perdiz,15850.0
+2021,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,18690.0
+2021,Aragón,Huesca,Caza Menor de Mamíferos,Conejo,600.0
+2021,Aragón,Huesca,Caza Menor de Aves,Faisán,100.0
+2021,Aragón,Huesca,Caza Menor de Aves,Perdiz,199999.0
+2021,Aragón,Teruel,Caza Mayor,Ciervo,198.0
+2021,Aragón,Teruel,Caza Menor de Aves,Perdiz,200.0
+2021,Aragón,Zaragoza,Caza Menor de Aves,Codorniz,4.0
+2021,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,14522.0
+2021,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,3630.0
+2021,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,21334.0
+2021,C. Valenciana,Valencia,Caza Mayor,Cabra montés,20.0
+2021,C. Valenciana,Valencia,Caza Mayor,Ciervo,15.0
+2021,C. Valenciana,Valencia,Caza Mayor,Jabalí,26.0
+2021,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,71040.0
+2021,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,4500.0
+2021,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,54772.0
+2021,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,2590.0
+2021,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,56589.0
+2021,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,500.0
+2021,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,20.0
+2021,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,15.0
+2021,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,50.0
+2021,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,12770.0
+2021,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,48947.0
+2021,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Codorniz,60.0
+2021,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,33464.0
+2021,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,38.0
+2021,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,1000.0
+2021,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,390.0
+2021,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,196130.0
+2021,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,229.0
+2021,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,70.0
+2021,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,3800.0
+2021,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,1800.0
+2021,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,2250.0
+2021,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,164584.0
+2021,Extremadura,Badajoz,Caza Mayor,Ciervo,21.0
+2021,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,6760.0
+2021,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,2980.0
+2021,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,107082.0
+2021,Extremadura,Cáceres,Caza Mayor,Ciervo,20.0
+2021,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,1940.0
+2021,Extremadura,Cáceres,Caza Menor de Aves,Faisán,340.0
+2021,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,64029.0
+2021,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,346.0
+2021,Madrid,Madrid,Caza Menor de Aves,Codorniz,500.0
+2021,Madrid,Madrid,Caza Menor de Aves,Faisán,2800.0
+2021,Madrid,Madrid,Caza Menor de Aves,Paloma,200.0
+2021,Madrid,Madrid,Caza Menor de Aves,Perdiz,3370.0
+2021,Murcia,Murcia,Caza Menor de Aves,Perdiz,95400.0
+2020,Andalucía,Almería,Caza Menor de Aves,Perdiz,83558.0
+2020,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,18200.0
+2020,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,36250.0
+2020,Andalucía,Granada,Caza Menor de Aves,Perdiz,133792.0
+2020,Andalucía,Huelva,Caza Menor de Aves,Perdiz,800.0
+2020,Andalucía,Jaén,Caza Menor de Aves,Perdiz,52550.0
+2020,Andalucía,Málaga,Caza Menor de Aves,Perdiz,8850.0
+2020,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,19400.0
+2020,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,4780.0
+2020,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,200.0
+2020,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,126950.0
+2020,C. Valenciana,Valencia,Caza Menor de Aves,Faisán,1100.0
+2020,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,10100.0
+2020,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,44298.0
+2020,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,19.0
+2020,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,150.0
+2020,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,57782.0
+2020,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,569.0
+2020,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,78.0
+2020,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,11000.0
+2020,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,21300.0
+2020,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,4800.0
+2020,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,2000.0
+2020,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,500.0
+2020,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,1750.0
+2020,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,111.0
+2020,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,24.0
+2020,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,17.0
+2020,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,30.0
+2020,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,14270.0
+2020,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,7690.0
+2020,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,19748.0
+2020,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,181543.0
+2020,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,1620.0
+2020,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,2995.0
+2020,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,71494.0
+2020,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,2220.0
+2020,Extremadura,Cáceres,Caza Menor de Aves,Faisán,435.0
+2020,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,73405.0
+2020,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,1270.0
+2020,Madrid,Madrid,Caza Menor de Aves,Codorniz,1050.0
+2020,Madrid,Madrid,Caza Menor de Aves,Faisán,15570.0
+2020,Madrid,Madrid,Caza Menor de Aves,Paloma,9800.0
+2020,Madrid,Madrid,Caza Menor de Aves,Perdiz,30570.0
+2020,Murcia,Murcia,Caza Menor de Aves,Perdiz,95400.0
+2020,País Vasco,Álava,Caza Menor de Aves,Codorniz,9300.0
+2020,País Vasco,Álava,Caza Menor de Aves,Perdiz,3040.0
+2019,Andalucía,Almería,Caza Menor de Aves,Perdiz,85904.0
+2019,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,20100.0
+2019,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,45059.0
+2019,Andalucía,Granada,Caza Menor de Aves,Perdiz,144883.0
+2019,Andalucía,Huelva,Caza Menor de Aves,Perdiz,1400.0
+2019,Andalucía,Jaén,Caza Menor de Aves,Perdiz,56210.0
+2019,Andalucía,Málaga,Caza Menor de Aves,Perdiz,15794.0
+2019,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,18100.0
+2019,C. Valenciana,Alicante,Caza Menor de Aves,Codorniz,880.0
+2019,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,630.0
+2019,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,12135.0
+2019,C. Valenciana,Valencia,Caza Mayor,Cabra montés,25.0
+2019,C. Valenciana,Valencia,Caza Mayor,Ciervo,20.0
+2019,C. Valenciana,Valencia,Caza Mayor,Jabalí,50.0
+2019,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,1240.0
+2019,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,121950.0
+2019,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,7600.0
+2019,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,30984.0
+2019,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,30.0
+2019,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,50.0
+2019,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,53762.0
+2019,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,621.0
+2019,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,120.0
+2019,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,2.0
+2019,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,11800.0
+2019,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Faisán,200.0
+2019,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,52900.0
+2019,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,5741.0
+2019,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,169530.0
+2019,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,91.0
+2019,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,10.0
+2019,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,29.0
+2019,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,10.0
+2019,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,41758.0
+2019,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,13236.0
+2019,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,42030.0
+2019,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,202432.0
+2019,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,2150.0
+2019,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,2045.0
+2019,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,44178.0
+2019,Extremadura,Cáceres,Caza Mayor,Ciervo,39.0
+2019,Extremadura,Cáceres,Caza Mayor,Muflón,7.0
+2019,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,2759.0
+2019,Extremadura,Cáceres,Caza Menor de Aves,Faisán,680.0
+2019,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,65367.0
+2019,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,3560.0
+2019,Madrid,Madrid,Caza Menor de Aves,Codorniz,3066.0
+2019,Madrid,Madrid,Caza Menor de Aves,Faisán,17085.0
+2019,Madrid,Madrid,Caza Menor de Aves,Paloma,17000.0
+2019,Madrid,Madrid,Caza Menor de Aves,Perdiz,36010.0
+2019,Murcia,Murcia,Caza Menor de Aves,Perdiz,5000.0
+2019,País Vasco,Álava,Caza Menor de Aves,Codorniz,9300.0
+2019,País Vasco,Álava,Caza Menor de Aves,Perdiz,3040.0
+2018,Andalucía,Almería,Caza Menor de Aves,Perdiz,89678.0
+2018,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,22750.0
+2018,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,51615.0
+2018,Andalucía,Granada,Caza Menor de Aves,Perdiz,146712.0
+2018,Andalucía,Huelva,Caza Menor de Aves,Perdiz,750.0
+2018,Andalucía,Jaén,Caza Menor de Aves,Perdiz,54805.0
+2018,Andalucía,Málaga,Caza Menor de Aves,Perdiz,12285.0
+2018,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,20989.0
+2018,Aragón,Huesca,Caza Menor de Aves,Perdiz,0.0
+2018,Aragón,Teruel,Caza Menor de Aves,Perdiz,0.0
+2018,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,0.0
+2018,C. Valenciana,Alicante,Caza Menor de Aves,Codorniz,3980.0
+2018,C. Valenciana,Alicante,Caza Menor de Aves,Faisán,200.0
+2018,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,700.0
+2018,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,6953.0
+2018,C. Valenciana,Valencia,Caza Mayor,Cabra montés,41.0
+2018,C. Valenciana,Valencia,Caza Mayor,Ciervo,52.0
+2018,C. Valenciana,Valencia,Caza Mayor,Jabalí,170.0
+2018,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,1380.0
+2018,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,12955.0
+2018,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,32.0
+2018,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,40.0
+2018,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,48842.0
+2018,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,836.0
+2018,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,61.0
+2018,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,145.0
+2018,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,84.0
+2018,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,27300.0
+2018,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,37.0
+2018,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Faisán,500.0
+2018,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,95941.0
+2018,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,2080.0
+2018,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,4966.0
+2018,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,102526.0
+2018,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,133.0
+2018,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,30.0
+2018,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,37.0
+2018,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,10.0
+2018,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,21474.0
+2018,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,12728.0
+2018,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,33080.0
+2018,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,129320.0
+2018,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,890.0
+2018,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,2530.0
+2018,Extremadura,Badajoz,Caza Menor de Aves,Faisán,40.0
+2018,Extremadura,Badajoz,Caza Menor de Aves,Paloma,20.0
+2018,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,43056.0
+2018,Extremadura,Cáceres,Caza Mayor,Jabalí,55.0
+2018,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,2650.0
+2018,Extremadura,Cáceres,Caza Menor de Aves,Faisán,680.0
+2018,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,64503.0
+2018,País Vasco,Álava,Caza Menor de Aves,Codorniz,9300.0
+2018,País Vasco,Álava,Caza Menor de Aves,Perdiz,3040.0
+2017,Andalucía,Almería,Caza Menor de Aves,Perdiz,73976.0
+2017,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,32028.0
+2017,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,49510.0
+2017,Andalucía,Granada,Caza Menor de Aves,Perdiz,115836.0
+2017,Andalucía,Huelva,Caza Menor de Aves,Perdiz,450.0
+2017,Andalucía,Jaén,Caza Menor de Aves,Perdiz,61240.0
+2017,Andalucía,Málaga,Caza Menor de Aves,Perdiz,15970.0
+2017,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,26455.0
+2017,C. Valenciana,Alicante,Caza Menor de Aves,Codorniz,2700.0
+2017,C. Valenciana,Alicante,Caza Menor de Aves,Faisán,200.0
+2017,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,1160.0
+2017,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,19928.0
+2017,C. Valenciana,Valencia,Caza Mayor,Ciervo,43.0
+2017,C. Valenciana,Valencia,Caza Mayor,Corzo,7.0
+2017,C. Valenciana,Valencia,Caza Mayor,Jabalí,196.0
+2017,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,1140.0
+2017,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,120800.0
+2017,C. Valenciana,Valencia,Caza Menor de Aves,Faisán,1220.0
+2017,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,17575.0
+2017,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,55841.0
+2017,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,150.0
+2017,Castilla-La Mancha,Albacete,Caza Mayor,Gamo,50.0
+2017,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,200.0
+2017,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,20000.0
+2017,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,20000.0
+2017,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,1000.0
+2017,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,71546.0
+2017,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,660.0
+2017,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,60.0
+2017,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,29070.0
+2017,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,65.0
+2017,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,100.0
+2017,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Faisán,350.0
+2017,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,23370.0
+2017,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,3100.0
+2017,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,610.0
+2017,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,53110.0
+2017,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,244.0
+2017,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,33.0
+2017,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,30.0
+2017,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,15.0
+2017,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,2000.0
+2017,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,24246.0
+2017,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,6286.0
+2017,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,25680.0
+2017,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,168471.0
+2017,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,890.0
+2017,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,50.0
+2017,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,23739.0
+2017,Extremadura,Cáceres,Caza Mayor,Jabalí,2.0
+2017,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,187.0
+2017,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,16665.0
+2017,Galicia,Lugo,Caza Menor de Aves,Perdiz,1600.0
+2017,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,10000.0
+2017,Murcia,Murcia,Caza Menor de Aves,Perdiz,9500.0
+2017,País Vasco,Álava,Caza Menor de Aves,Codorniz,20000.0
+2017,País Vasco,Álava,Caza Menor de Aves,Faisán,1600.0
+2017,País Vasco,Álava,Caza Menor de Aves,Perdiz,5000.0
+2016,Andalucía,Almería,Caza Menor de Aves,Perdiz,56050.0
+2016,Andalucía,Cádiz,Caza Menor de Mamíferos,Conejo,1500.0
+2016,Andalucía,Cádiz,Caza Menor de Aves,Codorniz,18750.0
+2016,Andalucía,Cádiz,Caza Menor de Aves,Faisán,5400.0
+2016,Andalucía,Cádiz,Caza Menor de Aves,Paloma,300.0
+2016,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,15425.0
+2016,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,37600.0
+2016,Andalucía,Granada,Caza Menor de Aves,Perdiz,87473.0
+2016,Andalucía,Huelva,Caza Menor de Aves,Perdiz,700.0
+2016,Andalucía,Jaén,Caza Menor de Aves,Perdiz,57904.0
+2016,Andalucía,Málaga,Caza Menor de Aves,Perdiz,13490.0
+2016,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,18600.0
+2016,C. Valenciana,Alicante,Caza Menor de Mamíferos,Conejo,1700.0
+2016,C. Valenciana,Alicante,Caza Menor de Aves,Faisán,200.0
+2016,C. Valenciana,Alicante,Caza Menor de Aves,Paloma,12800.0
+2016,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,1880.0
+2016,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,10347.0
+2016,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,750.0
+2016,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,150500.0
+2016,C. Valenciana,Valencia,Caza Menor de Aves,Faisán,1700.0
+2016,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,6600.0
+2016,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,47380.0
+2016,Canarias,Tenerife,Caza Menor de Aves,Perdiz,3000.0
+2016,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,50.0
+2016,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,100.0
+2016,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,65000.0
+2016,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,200.0
+2016,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,10000.0
+2016,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,8000.0
+2016,Castilla-La Mancha,Albacete,Caza Menor de Aves,Paloma,150.0
+2016,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,120000.0
+2016,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1086.0
+2016,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,16.0
+2016,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,248.0
+2016,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,20.0
+2016,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,21394.0
+2016,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,101.0
+2016,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,100.0
+2016,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,20.0
+2016,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,97056.0
+2016,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,30000.0
+2016,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,65000.0
+2016,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,203.0
+2016,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,21.0
+2016,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,129.0
+2016,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,26.0
+2016,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,2100.0
+2016,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,80.0
+2016,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,24534.0
+2016,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,10840.0
+2016,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,24140.0
+2016,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,236877.0
+2016,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,1810.0
+2016,Extremadura,Badajoz,Caza Menor de Aves,Faisán,50.0
+2016,Extremadura,Badajoz,Caza Menor de Aves,Paloma,50.0
+2016,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,33498.0
+2016,Extremadura,Cáceres,Caza Mayor,Ciervo,25.0
+2016,Extremadura,Cáceres,Caza Mayor,Jabalí,203.0
+2016,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,30.0
+2016,Extremadura,Cáceres,Caza Menor de Aves,Faisán,220.0
+2016,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,59798.0
+2016,Galicia,Lugo,Caza Menor de Aves,Perdiz,2010.0
+2016,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,12000.0
+2016,País Vasco,Álava,Caza Menor de Aves,Codorniz,20000.0
+2016,País Vasco,Álava,Caza Menor de Aves,Faisán,1600.0
+2016,País Vasco,Álava,Caza Menor de Aves,Perdiz,5000.0
+2015,Andalucía,Almería,Caza Menor de Aves,Perdiz,53770.0
+2015,Andalucía,Cádiz,Caza Mayor,Corzo,5.0
+2015,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,12925.0
+2015,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,32995.0
+2015,Andalucía,Granada,Caza Menor de Aves,Perdiz,76173.0
+2015,Andalucía,Huelva,Caza Menor de Aves,Perdiz,500.0
+2015,Andalucía,Jaén,Caza Menor de Aves,Perdiz,56491.0
+2015,Andalucía,Málaga,Caza Mayor,Cabra montés,19.0
+2015,Andalucía,Málaga,Caza Menor de Aves,Perdiz,7100.0
+2015,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,11000.0
+2015,Canarias,Tenerife,Caza Menor de Aves,Perdiz,3547.0
+2015,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,50.0
+2015,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,120.0
+2015,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,68000.0
+2015,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,250.0
+2015,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,22000.0
+2015,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,6000.0
+2015,Castilla-La Mancha,Albacete,Caza Menor de Aves,Paloma,150.0
+2015,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,100000.0
+2015,Castilla-La Mancha,Cuenca,Caza Mayor,Gamo,3.0
+2015,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,62.0
+2015,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,100.0
+2015,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,50.0
+2015,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,58700.0
+2015,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,72.0
+2015,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,3620.0
+2015,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,60720.0
+2015,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,61510.0
+2015,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,125.0
+2015,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,10.0
+2015,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,80.0
+2015,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,12.0
+2015,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,22530.0
+2015,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,7430.0
+2015,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,13252.0
+2015,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,96420.0
+2015,Galicia,Lugo,Caza Menor de Aves,Perdiz,1904.0
+2015,Madrid,Madrid,Caza Mayor,Jabalí,32.0
+2015,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,397.0
+2015,Madrid,Madrid,Caza Menor de Aves,Codorniz,3075.0
+2015,Madrid,Madrid,Caza Menor de Aves,Faisán,6042.0
+2015,Madrid,Madrid,Caza Menor de Aves,Paloma,26350.0
+2015,Madrid,Madrid,Caza Menor de Aves,Perdiz,22208.0
+2015,Murcia,Murcia,Caza Mayor,Ciervo,6.0
+2015,Murcia,Murcia,Caza Mayor,Jabalí,122.0
+2015,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,12000.0
+2015,Murcia,Murcia,Caza Menor de Aves,Perdiz,26800.0
+2015,País Vasco,Álava,Caza Menor de Aves,Codorniz,20000.0
+2015,País Vasco,Álava,Caza Menor de Aves,Faisán,2000.0
+2015,País Vasco,Álava,Caza Menor de Aves,Perdiz,5000.0
+2014,Andalucía,Almería,Caza Menor de Aves,Perdiz,113700.0
+2014,Andalucía,Cádiz,Caza Menor de Aves,Codorniz,30000.0
+2014,Andalucía,Cádiz,Caza Menor de Aves,Faisán,3000.0
+2014,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,11300.0
+2014,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,25600.0
+2014,Andalucía,Córdoba,Caza Menor de Aves,Faisán,4000.0
+2014,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,70867.0
+2014,Andalucía,Granada,Caza Menor de Aves,Perdiz,105650.0
+2014,Andalucía,Huelva,Caza Menor de Aves,Perdiz,200.0
+2014,Andalucía,Jaén,Caza Menor de Aves,Codorniz,10000.0
+2014,Andalucía,Jaén,Caza Menor de Aves,Faisán,200.0
+2014,Andalucía,Jaén,Caza Menor de Aves,Perdiz,71900.0
+2014,Andalucía,Málaga,Caza Menor de Aves,Perdiz,24550.0
+2014,Andalucía,Sevilla,Caza Menor de Aves,Faisán,600.0
+2014,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,35950.0
+2014,Aragón,Huesca,Caza Menor de Aves,Perdiz,100000.0
+2014,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,2190.0
+2014,Canarias,Tenerife,Caza Menor de Aves,Perdiz,4231.0
+2014,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,60.0
+2014,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,140.0
+2014,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,60000.0
+2014,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,220.0
+2014,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,22000.0
+2014,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,6000.0
+2014,Castilla-La Mancha,Albacete,Caza Menor de Aves,Paloma,100.0
+2014,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,95000.0
+2014,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,755.0
+2014,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,250.0
+2014,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,60.0
+2014,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,34990.0
+2014,Castilla-La Mancha,Cuenca,Caza Mayor,Gamo,3.0
+2014,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,55.0
+2014,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,100.0
+2014,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,10.0
+2014,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,7400.0
+2014,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,100.0
+2014,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,4000.0
+2014,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,3230.0
+2014,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,840.0
+2014,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,73255.0
+2014,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,186.0
+2014,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,11.0
+2014,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,56.0
+2014,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,66.0
+2014,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,1605.0
+2014,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,23892.0
+2014,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,15280.0
+2014,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,17762.0
+2014,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,192554.0
+2014,Galicia,Lugo,Caza Menor de Aves,Perdiz,1900.0
+2014,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,3322.0
+2014,Madrid,Madrid,Caza Menor de Aves,Codorniz,2657.0
+2014,Madrid,Madrid,Caza Menor de Aves,Faisán,6113.0
+2014,Madrid,Madrid,Caza Menor de Aves,Paloma,28424.0
+2014,Madrid,Madrid,Caza Menor de Aves,Perdiz,15252.0
+2014,Murcia,Murcia,Caza Mayor,Ciervo,8.0
+2014,Murcia,Murcia,Caza Mayor,Jabalí,167.0
+2014,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,12278.0
+2014,Murcia,Murcia,Caza Menor de Mamíferos,Liebre,115.0
+2014,Murcia,Murcia,Caza Menor de Aves,Perdiz,35127.0
+2014,País Vasco,Álava,Caza Menor de Aves,Codorniz,20910.0
+2014,País Vasco,Álava,Caza Menor de Aves,Faisán,1500.0
+2014,País Vasco,Álava,Caza Menor de Aves,Perdiz,4932.0
+2013,Andalucía,Almería,Caza Menor de Aves,Perdiz,107400.0
+2013,Andalucía,Cádiz,Caza Mayor,Corzo,6.0
+2013,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,11600.0
+2013,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,82921.0
+2013,Andalucía,Granada,Caza Menor de Aves,Perdiz,129700.0
+2013,Andalucía,Huelva,Caza Menor de Aves,Perdiz,1200.0
+2013,Andalucía,Jaén,Caza Menor de Aves,Perdiz,97436.0
+2013,Andalucía,Málaga,Caza Mayor,Cabra montés,15.0
+2013,Andalucía,Málaga,Caza Menor de Aves,Perdiz,24500.0
+2013,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,29038.0
+2013,Aragón,Huesca,Caza Menor de Aves,Perdiz,10000.0
+2013,Aragón,Teruel,Caza Menor de Aves,Perdiz,4000.0
+2013,Aragón,Zaragoza,Caza Mayor,Ciervo,200.0
+2013,C. Valenciana,Alicante,Caza Menor de Aves,Codorniz,200.0
+2013,C. Valenciana,Castellón,Caza Menor de Aves,Codorniz,12000.0
+2013,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,12532.0
+2013,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,5000.0
+2013,C. Valenciana,Valencia,Caza Menor de Aves,Faisán,906.0
+2013,C. Valenciana,Valencia,Caza Menor de Aves,Paloma,2000.0
+2013,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,10500.0
+2013,Cantabria,Cantabria,Caza Menor de Mamíferos,Conejo,226.0
+2013,Cantabria,Cantabria,Caza Menor de Mamíferos,Liebre,40.0
+2013,Cantabria,Cantabria,Caza Menor de Aves,Codorniz,200.0
+2013,Cantabria,Cantabria,Caza Menor de Aves,Faisán,400.0
+2013,Cantabria,Cantabria,Caza Menor de Aves,Perdiz,40.0
+2013,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,55.0
+2013,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,152.0
+2013,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,65000.0
+2013,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,250.0
+2013,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,25000.0
+2013,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,6000.0
+2013,Castilla-La Mancha,Albacete,Caza Menor de Aves,Paloma,100.0
+2013,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,96700.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,407.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,10.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,6.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,348.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,68.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,150.0
+2013,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,19850.0
+2013,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,240.0
+2013,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,250.0
+2013,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,200.0
+2013,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,20000.0
+2013,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,100.0
+2013,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,4000.0
+2013,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,5000.0
+2013,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,1500.0
+2013,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,80000.0
+2013,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,167.0
+2013,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,13.0
+2013,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,140.0
+2013,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,16.0
+2013,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,2000.0
+2013,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,100.0
+2013,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,21150.0
+2013,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,5754.0
+2013,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,3480.0
+2013,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,148598.0
+2013,Galicia,Lugo,Caza Menor de Aves,Perdiz,1800.0
+2013,Murcia,Murcia,Caza Mayor,Ciervo,10.0
+2013,Murcia,Murcia,Caza Mayor,Jabalí,166.0
+2013,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,1411.0
+2013,Murcia,Murcia,Caza Menor de Aves,Perdiz,63114.0
+2013,País Vasco,Álava,Caza Menor de Aves,Codorniz,20000.0
+2013,País Vasco,Álava,Caza Menor de Aves,Faisán,1500.0
+2013,País Vasco,Álava,Caza Menor de Aves,Perdiz,22000.0
+2012,Andalucía,Almería,Caza Menor de Aves,Perdiz,76200.0
+2012,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,11600.0
+2012,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,90721.0
+2012,Andalucía,Granada,Caza Menor de Aves,Perdiz,111200.0
+2012,Andalucía,Huelva,Caza Menor de Aves,Perdiz,17200.0
+2012,Andalucía,Jaén,Caza Menor de Aves,Perdiz,85317.0
+2012,Andalucía,Málaga,Caza Menor de Aves,Perdiz,27592.0
+2012,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,31838.0
+2012,Aragón,Huesca,Caza Menor de Aves,Perdiz,406940.0
+2012,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,12687.0
+2012,Canarias,Tenerife,Caza Menor de Aves,Perdiz,4013.0
+2012,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,200.0
+2012,Castilla-La Mancha,Albacete,Caza Mayor,Gamo,45.0
+2012,Castilla-La Mancha,Albacete,Caza Mayor,Muflón,65.0
+2012,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,80000.0
+2012,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,3750.0
+2012,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,130000.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1660.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,61.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,86.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,3385.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,488.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Menor de Mamíferos,Conejo,2000.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Codorniz,166000.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,9500.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,44000.0
+2012,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,191050.0
+2012,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,250.0
+2012,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,250.0
+2012,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,300.0
+2012,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,23000.0
+2012,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,100.0
+2012,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,4000.0
+2012,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,5000.0
+2012,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,1500.0
+2012,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,80000.0
+2012,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,204.0
+2012,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,12.0
+2012,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,82.0
+2012,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,2000.0
+2012,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,100.0
+2012,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,25380.0
+2012,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,7746.0
+2012,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,21012.0
+2012,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,193310.0
+2012,Galicia,Lugo,Caza Mayor,Ciervo,100.0
+2012,Galicia,Lugo,Caza Menor de Aves,Perdiz,2000.0
+2012,Galicia,Pontevedra,Caza Menor de Aves,Perdiz,2255.0
+2012,Murcia,Murcia,Caza Mayor,Ciervo,25.0
+2012,Murcia,Murcia,Caza Mayor,Jabalí,39.0
+2012,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,10449.0
+2012,Murcia,Murcia,Caza Menor de Aves,Perdiz,62605.0
+2011,Andalucía,Almería,Caza Menor de Aves,Perdiz,77300.0
+2011,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,4600.0
+2011,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,5500.0
+2011,Andalucía,Córdoba,Caza Menor de Aves,Faisán,3000.0
+2011,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,48600.0
+2011,Andalucía,Granada,Caza Menor de Aves,Perdiz,6500.0
+2011,Andalucía,Huelva,Caza Menor de Aves,Perdiz,7000.0
+2011,Andalucía,Jaén,Caza Menor de Aves,Faisán,400.0
+2011,Andalucía,Jaén,Caza Menor de Aves,Perdiz,38400.0
+2011,Andalucía,Málaga,Caza Menor de Aves,Perdiz,20000.0
+2011,Andalucía,Sevilla,Caza Menor de Aves,Faisán,1500.0
+2011,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,24500.0
+2011,Aragón,Huesca,Caza Menor de Aves,Perdiz,494000.0
+2011,Aragón,Teruel,Caza Menor de Aves,Perdiz,1500.0
+2011,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,24600.0
+2011,Canarias,Tenerife,Caza Menor de Aves,Perdiz,2000.0
+2011,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,200.0
+2011,Castilla-La Mancha,Albacete,Caza Mayor,Gamo,40.0
+2011,Castilla-La Mancha,Albacete,Caza Mayor,Muflón,80.0
+2011,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,150000.0
+2011,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,3785.0
+2011,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,25000.0
+2011,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,2000.0
+2011,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,200000.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1591.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,97.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,86.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,3427.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,494.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Menor de Mamíferos,Conejo,2000.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Codorniz,166000.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,10000.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,44000.0
+2011,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,198650.0
+2011,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,273.0
+2011,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,229.0
+2011,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,296.0
+2011,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,23045.0
+2011,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,150.0
+2011,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,5000.0
+2011,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,5000.0
+2011,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,3000.0
+2011,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,130.0
+2011,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,21.0
+2011,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,250.0
+2011,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,32513.0
+2011,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,12825.0
+2011,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,21232.0
+2011,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,60918.0
+2011,Galicia,Pontevedra,Caza Menor de Mamíferos,Conejo,20.0
+2011,Galicia,Pontevedra,Caza Menor de Aves,Perdiz,1891.0
+2011,Murcia,Murcia,Caza Mayor,Ciervo,20.0
+2011,Murcia,Murcia,Caza Menor de Aves,Perdiz,53543.0
+2010,Andalucía,Almería,Caza Menor de Aves,Perdiz,77300.0
+2010,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,4600.0
+2010,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,5500.0
+2010,Andalucía,Córdoba,Caza Menor de Aves,Faisán,3000.0
+2010,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,48600.0
+2010,Andalucía,Granada,Caza Menor de Aves,Perdiz,6500.0
+2010,Andalucía,Huelva,Caza Menor de Aves,Perdiz,7000.0
+2010,Andalucía,Jaén,Caza Menor de Aves,Faisán,400.0
+2010,Andalucía,Jaén,Caza Menor de Aves,Perdiz,38400.0
+2010,Andalucía,Málaga,Caza Menor de Aves,Perdiz,20000.0
+2010,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,24500.0
+2010,Canarias,Tenerife,Caza Menor de Aves,Perdiz,2000.0
+2010,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,200.0
+2010,Castilla-La Mancha,Albacete,Caza Mayor,Gamo,40.0
+2010,Castilla-La Mancha,Albacete,Caza Mayor,Muflón,80.0
+2010,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,150000.0
+2010,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,3785.0
+2010,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,25000.0
+2010,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,2000.0
+2010,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,200000.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1591.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,97.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,86.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,3427.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,494.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Menor de Mamíferos,Conejo,2000.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Codorniz,166000.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,10000.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,44000.0
+2010,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,198650.0
+2010,Castilla-La Mancha,Cuenca,Caza Mayor,Muflón,32.0
+2010,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,20300.0
+2010,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,150.0
+2010,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,5000.0
+2010,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,5000.0
+2010,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,3000.0
+2010,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,113.0
+2010,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,21.0
+2010,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,296.0
+2010,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,4.0
+2010,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,34880.0
+2010,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,14018.0
+2010,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,23118.0
+2010,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,61355.0
+2010,Murcia,Murcia,Caza Mayor,Ciervo,50.0
+2010,Murcia,Murcia,Caza Menor de Aves,Perdiz,81820.0
+2010,País Vasco,Álava,Caza Menor de Aves,Codorniz,18000.0
+2010,País Vasco,Álava,Caza Menor de Aves,Faisán,4500.0
+2010,País Vasco,Álava,Caza Menor de Aves,Perdiz,29500.0
+2009,Andalucía,Almería,Caza Menor de Aves,Perdiz,81300.0
+2009,Andalucía,Cádiz,Caza Mayor,Ciervo,890.0
+2009,Andalucía,Cádiz,Caza Mayor,Corzo,2.0
+2009,Andalucía,Cádiz,Caza Mayor,Jabalí,50.0
+2009,Andalucía,Cádiz,Caza Menor de Mamíferos,Conejo,14000.0
+2009,Andalucía,Cádiz,Caza Menor de Aves,Codorniz,46000.0
+2009,Andalucía,Cádiz,Caza Menor de Aves,Faisán,24800.0
+2009,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,12000.0
+2009,Andalucía,Córdoba,Caza Menor de Mamíferos,Conejo,400.0
+2009,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,10000.0
+2009,Andalucía,Córdoba,Caza Menor de Aves,Faisán,8000.0
+2009,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,107920.0
+2009,Andalucía,Granada,Caza Mayor,Cabra montés,6.0
+2009,Andalucía,Granada,Caza Mayor,Ciervo,40.0
+2009,Andalucía,Granada,Caza Menor de Mamíferos,Conejo,200.0
+2009,Andalucía,Granada,Caza Menor de Aves,Perdiz,93700.0
+2009,Andalucía,Huelva,Caza Menor de Mamíferos,Conejo,2000.0
+2009,Andalucía,Huelva,Caza Menor de Aves,Faisán,600.0
+2009,Andalucía,Huelva,Caza Menor de Aves,Perdiz,8500.0
+2009,Andalucía,Jaén,Caza Mayor,Ciervo,135.0
+2009,Andalucía,Jaén,Caza Mayor,Jabalí,80.0
+2009,Andalucía,Jaén,Caza Menor de Mamíferos,Conejo,1200.0
+2009,Andalucía,Jaén,Caza Menor de Aves,Codorniz,30000.0
+2009,Andalucía,Jaén,Caza Menor de Aves,Faisán,2500.0
+2009,Andalucía,Jaén,Caza Menor de Aves,Perdiz,109375.0
+2009,Andalucía,Málaga,Caza Mayor,Cabra montés,3.0
+2009,Andalucía,Málaga,Caza Menor de Mamíferos,Conejo,2000.0
+2009,Andalucía,Málaga,Caza Menor de Aves,Perdiz,30250.0
+2009,Andalucía,Sevilla,Caza Menor de Aves,Codorniz,13000.0
+2009,Andalucía,Sevilla,Caza Menor de Aves,Faisán,2200.0
+2009,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,39400.0
+2009,Canarias,Tenerife,Caza Menor de Aves,Perdiz,2000.0
+2009,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,150000.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1431.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,97.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,86.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,3262.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,494.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Codorniz,165000.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,8500.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Paloma,44000.0
+2009,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,109400.0
+2009,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,18.0
+2009,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,8100.0
+2009,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,200.0
+2009,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,20000.0
+2009,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,20000.0
+2009,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,10000.0
+2009,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,100000.0
+2009,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,428.0
+2009,Castilla-La Mancha,Toledo,Caza Mayor,Corzo,9.0
+2009,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,26.0
+2009,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,109.0
+2009,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,400.0
+2009,Castilla-La Mancha,Toledo,Caza Menor de Aves,Acuáticas y anátidas,12000.0
+2009,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,70900.0
+2009,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,22120.0
+2009,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,11825.0
+2009,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,260246.0
+2009,Galicia,Lugo,Caza Menor de Aves,Perdiz,2013.0
+2009,Galicia,Pontevedra,Caza Menor de Mamíferos,Conejo,100.0
+2009,Galicia,Pontevedra,Caza Menor de Aves,Perdiz,2683.0
+2009,Murcia,Murcia,Caza Mayor,Ciervo,50.0
+2009,Murcia,Murcia,Caza Menor de Aves,Perdiz,120000.0
+2008,Andalucía,Almería,Caza Menor de Aves,Perdiz,69500.0
+2008,Andalucía,Cádiz,Caza Mayor,Ciervo,890.0
+2008,Andalucía,Cádiz,Caza Mayor,Corzo,2.0
+2008,Andalucía,Cádiz,Caza Mayor,Jabalí,50.0
+2008,Andalucía,Cádiz,Caza Menor de Mamíferos,Conejo,14000.0
+2008,Andalucía,Cádiz,Caza Menor de Aves,Codorniz,46000.0
+2008,Andalucía,Cádiz,Caza Menor de Aves,Faisán,24800.0
+2008,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,17500.0
+2008,Andalucía,Córdoba,Caza Menor de Mamíferos,Conejo,400.0
+2008,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,10000.0
+2008,Andalucía,Córdoba,Caza Menor de Aves,Faisán,8000.0
+2008,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,58470.0
+2008,Andalucía,Granada,Caza Mayor,Cabra montés,6.0
+2008,Andalucía,Granada,Caza Mayor,Ciervo,40.0
+2008,Andalucía,Granada,Caza Menor de Mamíferos,Conejo,200.0
+2008,Andalucía,Granada,Caza Menor de Aves,Perdiz,65500.0
+2008,Andalucía,Huelva,Caza Menor de Mamíferos,Conejo,2850.0
+2008,Andalucía,Huelva,Caza Menor de Aves,Faisán,600.0
+2008,Andalucía,Huelva,Caza Menor de Aves,Perdiz,10650.0
+2008,Andalucía,Jaén,Caza Mayor,Ciervo,135.0
+2008,Andalucía,Jaén,Caza Mayor,Jabalí,80.0
+2008,Andalucía,Jaén,Caza Menor de Mamíferos,Conejo,1200.0
+2008,Andalucía,Jaén,Caza Menor de Aves,Codorniz,30000.0
+2008,Andalucía,Jaén,Caza Menor de Aves,Faisán,2500.0
+2008,Andalucía,Jaén,Caza Menor de Aves,Perdiz,114375.0
+2008,Andalucía,Málaga,Caza Mayor,Cabra montés,3.0
+2008,Andalucía,Málaga,Caza Menor de Mamíferos,Conejo,2000.0
+2008,Andalucía,Málaga,Caza Menor de Aves,Perdiz,20160.0
+2008,Andalucía,Sevilla,Caza Menor de Aves,Codorniz,13000.0
+2008,Andalucía,Sevilla,Caza Menor de Aves,Faisán,2200.0
+2008,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,39400.0
+2008,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,250.0
+2008,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,15000.0
+2008,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,30000.0
+2008,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,10000.0
+2008,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,120000.0
+2008,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,382.0
+2008,Castilla-La Mancha,Toledo,Caza Mayor,Corzo,9.0
+2008,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,758.0
+2008,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,96.0
+2008,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,1400.0
+2008,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,400.0
+2008,Castilla-La Mancha,Toledo,Caza Menor de Aves,Anátidas,12000.0
+2008,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,70900.0
+2008,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,4000.0
+2008,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,151200.0
+2008,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,1500.0
+2008,Madrid,Madrid,Caza Menor de Aves,Codorniz,5000.0
+2008,Madrid,Madrid,Caza Menor de Aves,Faisán,5600.0
+2008,Madrid,Madrid,Caza Menor de Aves,Paloma,1000.0
+2008,Madrid,Madrid,Caza Menor de Aves,Perdiz,32500.0
+2008,Murcia,Murcia,Caza Mayor,Ciervo,50.0
+2008,Murcia,Murcia,Caza Menor de Aves,Perdiz,89800.0
+2007,Andalucía,Almería,Caza Menor de Aves,Perdiz,76850.0
+2007,Andalucía,Cádiz,Caza Mayor,Ciervo,815.0
+2007,Andalucía,Cádiz,Caza Mayor,Jabalí,40.0
+2007,Andalucía,Cádiz,Caza Menor de Mamíferos,Conejo,11750.0
+2007,Andalucía,Cádiz,Caza Menor de Aves,Codorniz,55000.0
+2007,Andalucía,Cádiz,Caza Menor de Aves,Faisán,18630.0
+2007,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,13000.0
+2007,Andalucía,Córdoba,Caza Menor de Mamíferos,Conejo,400.0
+2007,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,79000.0
+2007,Andalucía,Córdoba,Caza Menor de Aves,Faisán,5800.0
+2007,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,82510.0
+2007,Andalucía,Huelva,Caza Menor de Mamíferos,Conejo,1241.0
+2007,Andalucía,Huelva,Caza Menor de Aves,Faisán,2950.0
+2007,Andalucía,Huelva,Caza Menor de Aves,Perdiz,12200.0
+2007,Andalucía,Jaén,Caza Mayor,Ciervo,135.0
+2007,Andalucía,Jaén,Caza Mayor,Jabalí,68.0
+2007,Andalucía,Jaén,Caza Menor de Mamíferos,Conejo,1648.0
+2007,Andalucía,Jaén,Caza Menor de Aves,Codorniz,18000.0
+2007,Andalucía,Jaén,Caza Menor de Aves,Faisán,756.0
+2007,Andalucía,Jaén,Caza Menor de Aves,Perdiz,126925.0
+2007,Andalucía,Málaga,Caza Menor de Aves,Perdiz,46560.0
+2007,Andalucía,Sevilla,Caza Menor de Aves,Codorniz,45000.0
+2007,Andalucía,Sevilla,Caza Menor de Aves,Faisán,2750.0
+2007,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,39900.0
+2007,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,180.0
+2007,Castilla-La Mancha,Albacete,Caza Mayor,Gamo,50.0
+2007,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,230.0
+2007,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,23000.0
+2007,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,150000.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1431.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,97.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,86.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,3262.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,494.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Menor de Mamíferos,Conejo,3000.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Codorniz,174000.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,10000.0
+2007,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,138400.0
+2007,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,250.0
+2007,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,25000.0
+2007,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,30000.0
+2007,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,452.0
+2007,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,626.0
+2007,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,3100.0
+2007,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,250.0
+2007,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,87900.0
+2007,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,22782.0
+2007,Castilla-La Mancha,Toledo,Caza Menor de Aves,Paloma,6465.0
+2007,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,227195.0
+2007,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,1354.0
+2007,Madrid,Madrid,Caza Menor de Aves,Codorniz,5000.0
+2007,Madrid,Madrid,Caza Menor de Aves,Faisán,5600.0
+2007,Madrid,Madrid,Caza Menor de Aves,Paloma,4000.0
+2007,Madrid,Madrid,Caza Menor de Aves,Perdiz,23453.0
+2007,Murcia,Murcia,Caza Menor de Aves,Faisán,550.0
+2007,Murcia,Murcia,Caza Menor de Aves,Perdiz,12000.0
+2006,País Vasco,Álava,Caza Mayor,Arruí,0.0
+2006,País Vasco,Álava,Caza Mayor,Cabra montés,0.0
+2006,País Vasco,Álava,Caza Mayor,Ciervo,0.0
+2006,País Vasco,Álava,Caza Mayor,Corzo,0.0
+2006,País Vasco,Álava,Caza Mayor,Gamo,0.0
+2006,País Vasco,Álava,Caza Mayor,Jabalí,0.0
+2006,País Vasco,Álava,Caza Mayor,Muflón,0.0
+2006,País Vasco,Álava,Caza Menor de Mamíferos,Conejo,0.0
+2006,País Vasco,Álava,Caza Menor de Mamíferos,Liebre,0.0
+2006,País Vasco,Álava,Caza Menor de Aves,Codorniz,0.0
+2006,País Vasco,Álava,Caza Menor de Aves,Faisán,2500.0
+2006,País Vasco,Álava,Caza Menor de Aves,Perdiz,20000.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Arruí,0.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Cabra montés,0.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Ciervo,180.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Corzo,0.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Gamo,50.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Jabalí,80.0
+2006,Castilla-La Mancha,Albacete,Caza Mayor,Muflón,0.0
+2006,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla-La Mancha,Albacete,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla-La Mancha,Albacete,Caza Menor de Aves,Codorniz,25000.0
+2006,Castilla-La Mancha,Albacete,Caza Menor de Aves,Faisán,8000.0
+2006,Castilla-La Mancha,Albacete,Caza Menor de Aves,Perdiz,153700.0
+2006,C. Valenciana,Alicante,Caza Mayor,Arruí,0.0
+2006,C. Valenciana,Alicante,Caza Mayor,Cabra montés,0.0
+2006,C. Valenciana,Alicante,Caza Mayor,Ciervo,0.0
+2006,C. Valenciana,Alicante,Caza Mayor,Corzo,0.0
+2006,C. Valenciana,Alicante,Caza Mayor,Gamo,0.0
+2006,C. Valenciana,Alicante,Caza Mayor,Jabalí,0.0
+2006,C. Valenciana,Alicante,Caza Mayor,Muflón,0.0
+2006,C. Valenciana,Alicante,Caza Menor de Mamíferos,Conejo,3750.0
+2006,C. Valenciana,Alicante,Caza Menor de Mamíferos,Liebre,0.0
+2006,C. Valenciana,Alicante,Caza Menor de Aves,Codorniz,800.0
+2006,C. Valenciana,Alicante,Caza Menor de Aves,Faisán,400.0
+2006,C. Valenciana,Alicante,Caza Menor de Aves,Perdiz,2500.0
+2006,Asturias,Asturias,Caza Mayor,Ciervo,0.0
+2006,Asturias,Asturias,Caza Mayor,Corzo,0.0
+2006,Asturias,Asturias,Caza Mayor,Gamo,0.0
+2006,Asturias,Asturias,Caza Mayor,Jabalí,0.0
+2006,Asturias,Asturias,Caza Menor de Mamíferos,Conejo,0.0
+2006,Asturias,Asturias,Caza Menor de Mamíferos,Liebre,0.0
+2006,Asturias,Asturias,Caza Menor de Aves,Codorniz,0.0
+2006,Asturias,Asturias,Caza Menor de Aves,Faisán,0.0
+2006,Asturias,Asturias,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Ávila,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Ávila,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Ávila,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Ávila,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Ávila,Caza Menor de Aves,Perdiz,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Arruí,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Cabra montés,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Ciervo,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Corzo,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Gamo,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Jabalí,0.0
+2006,Extremadura,Badajoz,Caza Mayor,Muflón,0.0
+2006,Extremadura,Badajoz,Caza Menor de Mamíferos,Conejo,0.0
+2006,Extremadura,Badajoz,Caza Menor de Mamíferos,Liebre,0.0
+2006,Extremadura,Badajoz,Caza Menor de Aves,Codorniz,0.0
+2006,Extremadura,Badajoz,Caza Menor de Aves,Faisán,0.0
+2006,Extremadura,Badajoz,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Burgos,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Burgos,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Burgos,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Burgos,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Burgos,Caza Menor de Aves,Perdiz,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Arruí,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Cabra montés,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Ciervo,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Corzo,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Gamo,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Jabalí,0.0
+2006,Extremadura,Cáceres,Caza Mayor,Muflón,0.0
+2006,Extremadura,Cáceres,Caza Menor de Mamíferos,Conejo,0.0
+2006,Extremadura,Cáceres,Caza Menor de Mamíferos,Liebre,0.0
+2006,Extremadura,Cáceres,Caza Menor de Aves,Codorniz,0.0
+2006,Extremadura,Cáceres,Caza Menor de Aves,Faisán,0.0
+2006,Extremadura,Cáceres,Caza Menor de Aves,Perdiz,0.0
+2006,Cantabria,Cantabria,Caza Mayor,Ciervo,0.0
+2006,Cantabria,Cantabria,Caza Mayor,Corzo,0.0
+2006,Cantabria,Cantabria,Caza Mayor,Jabalí,0.0
+2006,Cantabria,Cantabria,Caza Menor de Mamíferos,Conejo,0.0
+2006,Cantabria,Cantabria,Caza Menor de Mamíferos,Liebre,0.0
+2006,Cantabria,Cantabria,Caza Menor de Aves,Codorniz,0.0
+2006,Cantabria,Cantabria,Caza Menor de Aves,Faisán,0.0
+2006,Cantabria,Cantabria,Caza Menor de Aves,Perdiz,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Arruí,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Cabra montés,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Ciervo,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Corzo,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Gamo,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Jabalí,0.0
+2006,C. Valenciana,Castellón,Caza Mayor,Muflón,0.0
+2006,C. Valenciana,Castellón,Caza Menor de Mamíferos,Conejo,2800.0
+2006,C. Valenciana,Castellón,Caza Menor de Mamíferos,Liebre,0.0
+2006,C. Valenciana,Castellón,Caza Menor de Aves,Codorniz,30000.0
+2006,C. Valenciana,Castellón,Caza Menor de Aves,Faisán,0.0
+2006,C. Valenciana,Castellón,Caza Menor de Aves,Perdiz,34550.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Arruí,0.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Cabra montés,0.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Ciervo,1431.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Corzo,97.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Gamo,86.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Jabalí,3262.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Mayor,Muflón,494.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Menor de Mamíferos,Conejo,1000.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Codorniz,165000.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Faisán,8500.0
+2006,Castilla-La Mancha,Ciudad Real,Caza Menor de Aves,Perdiz,109400.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Arruí,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Cabra montés,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Ciervo,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Corzo,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Gamo,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Jabalí,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Mayor,Muflón,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Faisán,0.0
+2006,Castilla-La Mancha,Cuenca,Caza Menor de Aves,Perdiz,0.0
+2006,Cataluña,Gerona,Caza Mayor,Arruí,0.0
+2006,Cataluña,Gerona,Caza Mayor,Cabra montés,0.0
+2006,Cataluña,Gerona,Caza Mayor,Ciervo,0.0
+2006,Cataluña,Gerona,Caza Mayor,Corzo,0.0
+2006,Cataluña,Gerona,Caza Mayor,Gamo,0.0
+2006,Cataluña,Gerona,Caza Mayor,Jabalí,0.0
+2006,Cataluña,Gerona,Caza Mayor,Muflón,0.0
+2006,Cataluña,Gerona,Caza Menor de Mamíferos,Conejo,0.0
+2006,Cataluña,Gerona,Caza Menor de Mamíferos,Liebre,0.0
+2006,Cataluña,Gerona,Caza Menor de Aves,Codorniz,0.0
+2006,Cataluña,Gerona,Caza Menor de Aves,Faisán,0.0
+2006,Cataluña,Gerona,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Arruí,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Cabra montés,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Ciervo,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Corzo,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Gamo,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Jabalí,200.0
+2006,Castilla-La Mancha,Guadalajara,Caza Mayor,Muflón,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Conejo,20000.0
+2006,Castilla-La Mancha,Guadalajara,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Codorniz,20000.0
+2006,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Faisán,10000.0
+2006,Castilla-La Mancha,Guadalajara,Caza Menor de Aves,Perdiz,100000.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Arruí,0.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Cabra montés,0.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Ciervo,0.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Corzo,0.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Gamo,0.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Jabalí,0.0
+2006,País Vasco,Guipúzcoa,Caza Mayor,Muflón,0.0
+2006,País Vasco,Guipúzcoa,Caza Menor de Mamíferos,Conejo,0.0
+2006,País Vasco,Guipúzcoa,Caza Menor de Mamíferos,Liebre,0.0
+2006,País Vasco,Guipúzcoa,Caza Menor de Aves,Codorniz,0.0
+2006,País Vasco,Guipúzcoa,Caza Menor de Aves,Faisán,0.0
+2006,País Vasco,Guipúzcoa,Caza Menor de Aves,Perdiz,0.0
+2006,Aragón,Huesca,Caza Mayor,Arruí,0.0
+2006,Aragón,Huesca,Caza Mayor,Cabra montés,0.0
+2006,Aragón,Huesca,Caza Mayor,Ciervo,0.0
+2006,Aragón,Huesca,Caza Mayor,Corzo,0.0
+2006,Aragón,Huesca,Caza Mayor,Gamo,0.0
+2006,Aragón,Huesca,Caza Mayor,Jabalí,0.0
+2006,Aragón,Huesca,Caza Mayor,Muflón,0.0
+2006,Aragón,Huesca,Caza Menor de Mamíferos,Conejo,0.0
+2006,Aragón,Huesca,Caza Menor de Mamíferos,Liebre,0.0
+2006,Aragón,Huesca,Caza Menor de Aves,Codorniz,0.0
+2006,Aragón,Huesca,Caza Menor de Aves,Perdiz,0.0
+2006,Baleares,Baleares,Caza Mayor,Arruí,0.0
+2006,Baleares,Baleares,Caza Mayor,Cabra montés,0.0
+2006,Baleares,Baleares,Caza Mayor,Ciervo,0.0
+2006,Baleares,Baleares,Caza Mayor,Corzo,0.0
+2006,Baleares,Baleares,Caza Mayor,Gamo,0.0
+2006,Baleares,Baleares,Caza Mayor,Jabalí,0.0
+2006,Baleares,Baleares,Caza Mayor,Muflón,0.0
+2006,Baleares,Baleares,Caza Menor de Mamíferos,Conejo,0.0
+2006,Baleares,Baleares,Caza Menor de Mamíferos,Liebre,0.0
+2006,Baleares,Baleares,Caza Menor de Aves,Codorniz,0.0
+2006,Baleares,Baleares,Caza Menor de Aves,Faisán,0.0
+2006,Baleares,Baleares,Caza Menor de Aves,Perdiz,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Arruí,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Cabra montés,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Ciervo,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Corzo,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Gamo,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Jabalí,0.0
+2006,La Rioja,La Rioja,Caza Mayor,Muflón,0.0
+2006,La Rioja,La Rioja,Caza Menor de Mamíferos,Conejo,0.0
+2006,La Rioja,La Rioja,Caza Menor de Mamíferos,Liebre,0.0
+2006,La Rioja,La Rioja,Caza Menor de Aves,Codorniz,0.0
+2006,La Rioja,La Rioja,Caza Menor de Aves,Faisán,0.0
+2006,La Rioja,La Rioja,Caza Menor de Aves,Perdiz,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Arruí,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Cabra montés,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Ciervo,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Corzo,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Gamo,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Jabalí,0.0
+2006,Canarias,Las Palmas,Caza Mayor,Muflón,0.0
+2006,Canarias,Las Palmas,Caza Menor de Mamíferos,Conejo,30000.0
+2006,Canarias,Las Palmas,Caza Menor de Mamíferos,Liebre,0.0
+2006,Canarias,Las Palmas,Caza Menor de Aves,Codorniz,0.0
+2006,Canarias,Las Palmas,Caza Menor de Aves,Faisán,0.0
+2006,Canarias,Las Palmas,Caza Menor de Aves,Perdiz,8500.0
+2006,Castilla y León,León,Caza Mayor,Arruí,0.0
+2006,Castilla y León,León,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,León,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,León,Caza Mayor,Corzo,0.0
+2006,Castilla y León,León,Caza Mayor,Gamo,0.0
+2006,Castilla y León,León,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,León,Caza Mayor,Muflón,0.0
+2006,Castilla y León,León,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,León,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,León,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,León,Caza Menor de Aves,Perdiz,0.0
+2006,Cataluña,Lérida,Caza Mayor,Arruí,0.0
+2006,Cataluña,Lérida,Caza Mayor,Cabra montés,0.0
+2006,Cataluña,Lérida,Caza Mayor,Ciervo,0.0
+2006,Cataluña,Lérida,Caza Mayor,Corzo,0.0
+2006,Cataluña,Lérida,Caza Mayor,Gamo,0.0
+2006,Cataluña,Lérida,Caza Mayor,Jabalí,0.0
+2006,Cataluña,Lérida,Caza Mayor,Muflón,0.0
+2006,Cataluña,Lérida,Caza Menor de Mamíferos,Conejo,0.0
+2006,Cataluña,Lérida,Caza Menor de Mamíferos,Liebre,0.0
+2006,Cataluña,Lérida,Caza Menor de Aves,Codorniz,0.0
+2006,Cataluña,Lérida,Caza Menor de Aves,Faisán,0.0
+2006,Cataluña,Lérida,Caza Menor de Aves,Perdiz,0.0
+2006,Madrid,Madrid,Caza Mayor,Arruí,0.0
+2006,Madrid,Madrid,Caza Mayor,Cabra montés,0.0
+2006,Madrid,Madrid,Caza Mayor,Ciervo,0.0
+2006,Madrid,Madrid,Caza Mayor,Corzo,0.0
+2006,Madrid,Madrid,Caza Mayor,Gamo,0.0
+2006,Madrid,Madrid,Caza Mayor,Jabalí,0.0
+2006,Madrid,Madrid,Caza Mayor,Muflón,0.0
+2006,Madrid,Madrid,Caza Menor de Mamíferos,Conejo,0.0
+2006,Madrid,Madrid,Caza Menor de Mamíferos,Liebre,0.0
+2006,Madrid,Madrid,Caza Menor de Aves,Codorniz,0.0
+2006,Madrid,Madrid,Caza Menor de Aves,Faisán,0.0
+2006,Madrid,Madrid,Caza Menor de Aves,Perdiz,0.0
+2006,Murcia,Murcia,Caza Mayor,Arruí,0.0
+2006,Murcia,Murcia,Caza Mayor,Cabra montés,0.0
+2006,Murcia,Murcia,Caza Mayor,Ciervo,0.0
+2006,Murcia,Murcia,Caza Mayor,Corzo,0.0
+2006,Murcia,Murcia,Caza Mayor,Gamo,0.0
+2006,Murcia,Murcia,Caza Mayor,Jabalí,0.0
+2006,Murcia,Murcia,Caza Mayor,Muflón,0.0
+2006,Murcia,Murcia,Caza Menor de Mamíferos,Conejo,0.0
+2006,Murcia,Murcia,Caza Menor de Mamíferos,Liebre,0.0
+2006,Murcia,Murcia,Caza Menor de Aves,Codorniz,0.0
+2006,Murcia,Murcia,Caza Menor de Aves,Faisán,500.0
+2006,Murcia,Murcia,Caza Menor de Aves,Perdiz,11579.0
+2006,Navarra,Navarra,Caza Mayor,Arruí,0.0
+2006,Navarra,Navarra,Caza Mayor,Cabra montés,0.0
+2006,Navarra,Navarra,Caza Mayor,Ciervo,0.0
+2006,Navarra,Navarra,Caza Mayor,Corzo,0.0
+2006,Navarra,Navarra,Caza Mayor,Gamo,0.0
+2006,Navarra,Navarra,Caza Mayor,Jabalí,0.0
+2006,Navarra,Navarra,Caza Mayor,Muflón,0.0
+2006,Navarra,Navarra,Caza Menor de Mamíferos,Conejo,0.0
+2006,Navarra,Navarra,Caza Menor de Mamíferos,Liebre,0.0
+2006,Navarra,Navarra,Caza Menor de Aves,Codorniz,0.0
+2006,Navarra,Navarra,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Palencia,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Palencia,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Palencia,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Palencia,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Palencia,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Salamanca,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Salamanca,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Salamanca,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Salamanca,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Salamanca,Caza Menor de Aves,Perdiz,0.0
+2006,Canarias,Tenerife,Caza Mayor,Arruí,0.0
+2006,Canarias,Tenerife,Caza Menor de Mamíferos,Conejo,0.0
+2006,Canarias,Tenerife,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Soria,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Soria,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Soria,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Soria,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Soria,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Soria,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Soria,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Soria,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Soria,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Soria,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Soria,Caza Menor de Aves,Perdiz,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Arruí,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Cabra montés,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Ciervo,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Corzo,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Gamo,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Jabalí,0.0
+2006,Cataluña,Tarragona,Caza Mayor,Muflón,0.0
+2006,Cataluña,Tarragona,Caza Menor de Mamíferos,Conejo,0.0
+2006,Cataluña,Tarragona,Caza Menor de Mamíferos,Liebre,0.0
+2006,Cataluña,Tarragona,Caza Menor de Aves,Codorniz,0.0
+2006,Cataluña,Tarragona,Caza Menor de Aves,Faisán,0.0
+2006,Cataluña,Tarragona,Caza Menor de Aves,Perdiz,0.0
+2006,Aragón,Teruel,Caza Mayor,Arruí,0.0
+2006,Aragón,Teruel,Caza Mayor,Cabra montés,0.0
+2006,Aragón,Teruel,Caza Mayor,Ciervo,0.0
+2006,Aragón,Teruel,Caza Mayor,Corzo,0.0
+2006,Aragón,Teruel,Caza Mayor,Gamo,0.0
+2006,Aragón,Teruel,Caza Mayor,Jabalí,0.0
+2006,Aragón,Teruel,Caza Mayor,Muflón,0.0
+2006,Aragón,Teruel,Caza Menor de Mamíferos,Conejo,0.0
+2006,Aragón,Teruel,Caza Menor de Mamíferos,Liebre,0.0
+2006,Aragón,Teruel,Caza Menor de Aves,Codorniz,0.0
+2006,Aragón,Teruel,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Valladolid,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Valladolid,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Valladolid,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Valladolid,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Valladolid,Caza Menor de Aves,Perdiz,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Arruí,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Cabra montés,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Ciervo,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Corzo,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Gamo,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Jabalí,0.0
+2006,País Vasco,Vizcaya,Caza Mayor,Muflón,0.0
+2006,País Vasco,Vizcaya,Caza Menor de Mamíferos,Conejo,0.0
+2006,País Vasco,Vizcaya,Caza Menor de Mamíferos,Liebre,0.0
+2006,País Vasco,Vizcaya,Caza Menor de Aves,Codorniz,0.0
+2006,País Vasco,Vizcaya,Caza Menor de Aves,Faisán,0.0
+2006,País Vasco,Vizcaya,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Zamora,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Zamora,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Zamora,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Zamora,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Zamora,Caza Menor de Aves,Perdiz,0.0
+2006,Andalucía,Córdoba,Caza Mayor,Ciervo,0.0
+2006,Andalucía,Córdoba,Caza Menor de Mamíferos,Conejo,400.0
+2006,Andalucía,Córdoba,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Córdoba,Caza Menor de Aves,Codorniz,47500.0
+2006,Andalucía,Córdoba,Caza Menor de Aves,Faisán,8300.0
+2006,Andalucía,Córdoba,Caza Menor de Aves,Perdiz,89020.0
+2006,Andalucía,Cádiz,Caza Mayor,Ciervo,890.0
+2006,Andalucía,Cádiz,Caza Mayor,Jabalí,50.0
+2006,Andalucía,Cádiz,Caza Menor de Mamíferos,Conejo,10000.0
+2006,Andalucía,Cádiz,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Cádiz,Caza Menor de Aves,Codorniz,90000.0
+2006,Andalucía,Cádiz,Caza Menor de Aves,Faisán,20530.0
+2006,Andalucía,Cádiz,Caza Menor de Aves,Perdiz,16000.0
+2006,Andalucía,Sevilla,Caza Mayor,Ciervo,0.0
+2006,Andalucía,Sevilla,Caza Menor de Mamíferos,Conejo,0.0
+2006,Andalucía,Sevilla,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Sevilla,Caza Menor de Aves,Codorniz,50000.0
+2006,Andalucía,Sevilla,Caza Menor de Aves,Faisán,2000.0
+2006,Andalucía,Sevilla,Caza Menor de Aves,Perdiz,48900.0
+2006,Andalucía,Huelva,Caza Mayor,Ciervo,0.0
+2006,Andalucía,Huelva,Caza Menor de Mamíferos,Conejo,2000.0
+2006,Andalucía,Huelva,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Huelva,Caza Menor de Aves,Codorniz,0.0
+2006,Andalucía,Huelva,Caza Menor de Aves,Faisán,2800.0
+2006,Andalucía,Huelva,Caza Menor de Aves,Perdiz,7200.0
+2006,Andalucía,Jaén,Caza Mayor,Ciervo,135.0
+2006,Andalucía,Jaén,Caza Mayor,Jabalí,80.0
+2006,Andalucía,Jaén,Caza Menor de Mamíferos,Conejo,1215.0
+2006,Andalucía,Jaén,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Jaén,Caza Menor de Aves,Codorniz,30000.0
+2006,Andalucía,Jaén,Caza Menor de Aves,Faisán,1512.0
+2006,Andalucía,Jaén,Caza Menor de Aves,Perdiz,115020.0
+2006,Andalucía,Málaga,Caza Mayor,Ciervo,0.0
+2006,Andalucía,Málaga,Caza Menor de Mamíferos,Conejo,0.0
+2006,Andalucía,Málaga,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Málaga,Caza Menor de Aves,Codorniz,0.0
+2006,Andalucía,Málaga,Caza Menor de Aves,Faisán,0.0
+2006,Andalucía,Málaga,Caza Menor de Aves,Perdiz,16260.0
+2006,Andalucía,Granada,Caza Mayor,Ciervo,40.0
+2006,Andalucía,Granada,Caza Menor de Mamíferos,Conejo,200.0
+2006,Andalucía,Granada,Caza Menor de Mamíferos,Liebre,0.0
+2006,Andalucía,Granada,Caza Menor de Aves,Codorniz,2500.0
+2006,Andalucía,Granada,Caza Menor de Aves,Faisán,0.0
+2006,Andalucía,Granada,Caza Menor de Aves,Perdiz,102953.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Arruí,0.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Cabra montés,0.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Ciervo,452.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Corzo,0.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Gamo,0.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Jabalí,626.0
+2006,Castilla-La Mancha,Toledo,Caza Mayor,Muflón,0.0
+2006,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Conejo,3100.0
+2006,Castilla-La Mancha,Toledo,Caza Menor de Mamíferos,Liebre,250.0
+2006,Castilla-La Mancha,Toledo,Caza Menor de Aves,Codorniz,87900.0
+2006,Castilla-La Mancha,Toledo,Caza Menor de Aves,Faisán,22782.0
+2006,Castilla-La Mancha,Toledo,Caza Menor de Aves,Perdiz,225095.0
+2006,Cataluña,Barcelona,Caza Mayor,Arruí,0.0
+2006,Cataluña,Barcelona,Caza Mayor,Cabra montés,0.0
+2006,Cataluña,Barcelona,Caza Mayor,Ciervo,0.0
+2006,Cataluña,Barcelona,Caza Mayor,Corzo,0.0
+2006,Cataluña,Barcelona,Caza Mayor,Gamo,0.0
+2006,Cataluña,Barcelona,Caza Mayor,Jabalí,0.0
+2006,Cataluña,Barcelona,Caza Mayor,Muflón,0.0
+2006,Cataluña,Barcelona,Caza Menor de Mamíferos,Conejo,0.0
+2006,Cataluña,Barcelona,Caza Menor de Mamíferos,Liebre,0.0
+2006,Cataluña,Barcelona,Caza Menor de Aves,Codorniz,0.0
+2006,Cataluña,Barcelona,Caza Menor de Aves,Faisán,0.0
+2006,Cataluña,Barcelona,Caza Menor de Aves,Perdiz,0.0
+2006,C. Valenciana,Valencia,Caza Mayor,Arruí,152.0
+2006,C. Valenciana,Valencia,Caza Mayor,Cabra montés,59.0
+2006,C. Valenciana,Valencia,Caza Mayor,Ciervo,105.0
+2006,C. Valenciana,Valencia,Caza Mayor,Corzo,0.0
+2006,C. Valenciana,Valencia,Caza Mayor,Gamo,0.0
+2006,C. Valenciana,Valencia,Caza Mayor,Jabalí,2156.0
+2006,C. Valenciana,Valencia,Caza Mayor,Muflón,100.0
+2006,C. Valenciana,Valencia,Caza Menor de Mamíferos,Conejo,5050.0
+2006,C. Valenciana,Valencia,Caza Menor de Mamíferos,Liebre,0.0
+2006,C. Valenciana,Valencia,Caza Menor de Aves,Codorniz,20000.0
+2006,C. Valenciana,Valencia,Caza Menor de Aves,Faisán,8000.0
+2006,C. Valenciana,Valencia,Caza Menor de Aves,Perdiz,131600.0
+2006,Aragón,Zaragoza,Caza Mayor,Arruí,0.0
+2006,Aragón,Zaragoza,Caza Mayor,Cabra montés,0.0
+2006,Aragón,Zaragoza,Caza Mayor,Ciervo,0.0
+2006,Aragón,Zaragoza,Caza Mayor,Corzo,0.0
+2006,Aragón,Zaragoza,Caza Mayor,Gamo,0.0
+2006,Aragón,Zaragoza,Caza Mayor,Jabalí,0.0
+2006,Aragón,Zaragoza,Caza Mayor,Muflón,0.0
+2006,Aragón,Zaragoza,Caza Menor de Mamíferos,Conejo,0.0
+2006,Aragón,Zaragoza,Caza Menor de Mamíferos,Liebre,0.0
+2006,Aragón,Zaragoza,Caza Menor de Aves,Codorniz,0.0
+2006,Aragón,Zaragoza,Caza Menor de Aves,Perdiz,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Arruí,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Cabra montés,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Ciervo,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Corzo,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Gamo,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Jabalí,0.0
+2006,Castilla y León,Segovia,Caza Mayor,Muflón,0.0
+2006,Castilla y León,Segovia,Caza Menor de Mamíferos,Conejo,0.0
+2006,Castilla y León,Segovia,Caza Menor de Mamíferos,Liebre,0.0
+2006,Castilla y León,Segovia,Caza Menor de Aves,Codorniz,0.0
+2006,Castilla y León,Segovia,Caza Menor de Aves,Perdiz,0.0
