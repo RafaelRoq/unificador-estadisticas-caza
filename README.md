@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19160558.svg)](https://doi.org/10.5281/zenodo.19160558)
+
 # Estadísticas de Caza en España (2005-2023) — Dataset Unificado
 
 Dataset abierto que unifica **19 años** de estadísticas oficiales de caza en España en CSVs listos para análisis. Los datos provienen del [Anuario de Estadística Forestal](https://www.miteco.gob.es/es/biodiversidad/estadisticas/forestal_anuarios_702702702702.html) del MITECO.
